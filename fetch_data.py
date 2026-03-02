@@ -286,8 +286,9 @@ def scrape_screener_annual(ticker):
                 return values
         return None
 
-    # P&L metrics (green)
-    sales_row        = find_row(pl_rows, ["sales"])
+    # P&L metrics (green) — banks use "Revenue" instead of "Sales"
+    sales_row        = (find_row(pl_rows, ["sales"]) or
+                        find_row(pl_rows, ["revenue"]))
     net_profit_row   = find_row(pl_rows, ["net profit"])
     eps_row          = find_row(pl_rows, ["eps"])
     dividend_row     = find_row(pl_rows, ["dividend"])
@@ -765,7 +766,7 @@ def scrape_quarterly_pl(ticker):
                 return [parse_number(c.get_text(strip=True)) for c in cells[1:]]
         return None
 
-    q_sales_raw = find_row("sales") or [None] * len(quarters)
+    q_sales_raw = find_row("sales") or find_row("revenue") or [None] * len(quarters)
     q_np_raw    = find_row("net profit") or [None] * len(quarters)
 
     # NPM% per quarter (yellow)
