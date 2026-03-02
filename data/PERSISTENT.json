@@ -1,0 +1,2437 @@
+{
+  "ticker": "PERSISTENT",
+  "last_updated": "2026-03-01 18:49",
+  "sources": {
+    "screener": "https://www.screener.in/company/PERSISTENT/consolidated/",
+    "trendlyne": "https://www.screener.in/company/PERSISTENT/consolidated/",
+    "prices": "https://finance.yahoo.com/quote/PERSISTENT.NS"
+  },
+  "annual": {
+    "years": [
+      "Mar 2014",
+      "Mar 2015",
+      "Mar 2016",
+      "Mar 2017",
+      "Mar 2018",
+      "Mar 2019",
+      "Mar 2020",
+      "Mar 2021",
+      "Mar 2022",
+      "Mar 2023",
+      "Mar 2024",
+      "Mar 2025",
+      "TTM"
+    ],
+    "sales": [
+      {
+        "value": 1669.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 1891.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 2312.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 2878.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 3034.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 3366.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 3566.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 4188.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 5711.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 8351.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 9822.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 11939.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 13935.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Sales in ₹Cr"
+      }
+    ],
+    "net_profit": [
+      {
+        "value": 249.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 291.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 277.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 301.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 323.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 352.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 340.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 451.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 690.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 921.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 1093.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 1400.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 1732.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      }
+    ],
+    "npm_pct": [
+      {
+        "value": 14.92,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 15.39,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 11.98,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 10.46,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 10.65,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 10.46,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 9.53,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 10.77,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 12.08,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 11.03,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 11.13,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 11.73,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 12.43,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      }
+    ],
+    "cagr_sales_3yr": [
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": 19.92,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 17.07,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 13.34,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 7.41,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 11.34,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 19.27,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 32.8,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 32.86,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 27.87,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 18.61,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      }
+    ],
+    "cagr_np_3yr": [
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": 6.53,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 3.54,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 8.31,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 4.14,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 11.77,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 25.15,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 39.4,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 34.32,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 26.6,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 23.43,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      }
+    ],
+    "eps": [
+      {
+        "value": 15.58,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 18.16,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 17.33,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 18.84,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 20.19,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 21.98,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 22.26,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 29.48,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 45.15,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 60.24,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 70.98,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 90.54,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 110.77,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "EPS in ₹"
+      }
+    ],
+    "pe": [
+      {
+        "value": 14.7,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2014"
+      },
+      {
+        "value": 17.3,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2015"
+      },
+      {
+        "value": 19.7,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2016"
+      },
+      {
+        "value": 14.3,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2017"
+      },
+      {
+        "value": 15.8,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2018"
+      },
+      {
+        "value": 13.4,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2019"
+      },
+      {
+        "value": 11.8,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2020"
+      },
+      {
+        "value": 31.4,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2021"
+      },
+      {
+        "value": 51.2,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2022"
+      },
+      {
+        "value": 37.5,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2023"
+      },
+      {
+        "value": 55.5,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2024"
+      },
+      {
+        "value": 60.5,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2025"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=TTM"
+      }
+    ],
+    "roe_pct": [
+      {
+        "value": 20.38,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 20.7,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 16.71,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 15.85,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 15.19,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 15.01,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 14.26,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 16.14,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 20.49,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 23.23,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 22.05,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 22.16,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 24.23,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      }
+    ],
+    "roce_pct": [
+      {
+        "value": 30.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 29.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 23.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 23.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 20.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 20.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 18.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 21.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 26.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 30.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 29.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 30.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "ROCE%"
+      }
+    ],
+    "roa_pct": [
+      {
+        "value": 16.14,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 16.39,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 13.07,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 12.89,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 12.22,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 12.32,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 11.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 12.3,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 12.73,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 13.8,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 14.76,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 16.05,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 17.51,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      }
+    ],
+    "de_ratio": [
+      {
+        "value": 0.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.03,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.04,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.17,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.17,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.09,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.05,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.06,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      }
+    ],
+    "mc": [
+      {
+        "value": 18.32,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2014"
+      },
+      {
+        "value": 50.32,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2015"
+      },
+      {
+        "value": 54.53,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2016"
+      },
+      {
+        "value": 43.24,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2017"
+      },
+      {
+        "value": 51.07,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2018"
+      },
+      {
+        "value": 46.51,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2019"
+      },
+      {
+        "value": 39.85,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2020"
+      },
+      {
+        "value": 140.84,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2021"
+      },
+      {
+        "value": 351.64,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2022"
+      },
+      {
+        "value": 343.34,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2023"
+      },
+      {
+        "value": 606.44,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2024"
+      },
+      {
+        "value": 854.77,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2025"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=TTM"
+      }
+    ],
+    "ev": [
+      {
+        "value": 21.32,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2014"
+      },
+      {
+        "value": 54.32,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2015"
+      },
+      {
+        "value": 57.53,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2016"
+      },
+      {
+        "value": 46.24,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2017"
+      },
+      {
+        "value": 53.07,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2018"
+      },
+      {
+        "value": 48.51,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2019"
+      },
+      {
+        "value": 110.85,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2020"
+      },
+      {
+        "value": 238.84,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2021"
+      },
+      {
+        "value": 929.64,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2022"
+      },
+      {
+        "value": 1001.34,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2023"
+      },
+      {
+        "value": 1057.44,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2024"
+      },
+      {
+        "value": 1165.77,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2025"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=TTM"
+      }
+    ],
+    "mc_ev": [
+      {
+        "value": 0.86,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.93,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.95,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.94,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.96,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.96,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.36,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.59,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.38,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.34,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.57,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.73,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PERSISTENT.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      }
+    ],
+    "book_value": [
+      {
+        "value": 152.75,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 87.88,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 103.62,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 118.69,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 132.94,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 148.42,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 156.91,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 183.88,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 221.58,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 260.86,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 321.95,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 405.06,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 458.14,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      }
+    ],
+    "equity_capital": [
+      {
+        "value": 40.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 80.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 80.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 80.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 80.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 79.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 76.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 76.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 76.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 76.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 77.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 78.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 78.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      }
+    ],
+    "face_value": [
+      {
+        "value": 5.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 5.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 5.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 5.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 5.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 5.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 5.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 5.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 5.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 5.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 5.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 5.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 5.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Face Value in ₹"
+      }
+    ],
+    "dividend": [
+      {
+        "value": 19.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 41.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 23.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 24.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 25.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 25.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 27.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 34.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 34.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 41.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 37.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 39.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Dividend per share in ₹"
+      }
+    ],
+    "div_pct": [
+      {
+        "value": 380.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 820.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 460.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 480.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 500.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 500.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 540.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 680.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 680.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 820.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 740.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 780.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": null,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      }
+    ],
+    "borrowings": [
+      {
+        "value": 3.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 4.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 3.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 3.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 71.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 98.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 578.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 658.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 451.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 311.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 404.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      }
+    ],
+    "cash": [
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      }
+    ],
+    "total_assets": [
+      {
+        "value": 1543.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 1775.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 2120.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 2335.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 2644.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 2856.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 3092.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 3666.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 5419.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 6673.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 7405.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 8722.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 9890.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      }
+    ],
+    "shareholding": {
+      "Mar 2023": {
+        "fii": {
+          "value": 20.55,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 27.6,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 31.26,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 18.52,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Mar 2024": {
+        "fii": {
+          "value": 24.96,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 25.88,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 31.02,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 17.03,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Mar 2025": {
+        "fii": {
+          "value": 24.36,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 26.85,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 30.66,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 17.28,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      }
+    }
+  },
+  "quarterly": {
+    "quarters": [
+      "Dec 2022",
+      "Mar 2023",
+      "Jun 2023",
+      "Sep 2023",
+      "Dec 2023",
+      "Mar 2024",
+      "Jun 2024",
+      "Sep 2024",
+      "Dec 2024",
+      "Mar 2025",
+      "Jun 2025",
+      "Sep 2025",
+      "Dec 2025"
+    ],
+    "sales": [
+      {
+        "value": 2169.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 2254.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 2321.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 2412.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 2498.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 2591.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 2737.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 2897.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 3062.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 3242.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 3334.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 3581.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 3778.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      }
+    ],
+    "net_profit": [
+      {
+        "value": 238.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 252.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 229.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 263.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 286.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 315.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 306.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 325.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 373.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 396.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 425.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 471.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 439.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      }
+    ],
+    "npm_pct": [
+      {
+        "value": 10.97,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 11.18,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 9.87,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 10.9,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 11.45,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 12.16,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 11.18,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 11.22,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 12.18,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 12.21,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 12.75,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 13.15,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 11.62,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      }
+    ],
+    "shareholding": {
+      "Mar 2023": {
+        "fii": {
+          "value": 20.55,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 27.6,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 31.26,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 18.52,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Jun 2023": {
+        "fii": {
+          "value": 20.5,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 28.04,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 31.06,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 17.99,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Sep 2023": {
+        "fii": {
+          "value": 21.34,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 28.67,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 31.06,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 16.96,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Dec 2023": {
+        "fii": {
+          "value": 24.55,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 26.13,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 31.06,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 16.91,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Mar 2024": {
+        "fii": {
+          "value": 24.96,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 25.88,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 31.02,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 17.03,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Jun 2024": {
+        "fii": {
+          "value": 22.55,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 28.23,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 31.02,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 17.51,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Sep 2024": {
+        "fii": {
+          "value": 23.34,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 27.37,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 30.66,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 16.96,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Dec 2024": {
+        "fii": {
+          "value": 24.75,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 26.26,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 30.66,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 17.22,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Mar 2025": {
+        "fii": {
+          "value": 24.36,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 26.85,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 30.66,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 17.28,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Jun 2025": {
+        "fii": {
+          "value": 24.19,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 27.77,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 30.56,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 16.88,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Sep 2025": {
+        "fii": {
+          "value": 21.24,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 30.6,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 30.56,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 17.14,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Dec 2025": {
+        "fii": {
+          "value": 22.79,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 29.8,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 30.29,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 16.21,
+          "color": "green",
+          "source": "https://www.screener.in/company/PERSISTENT/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      }
+    }
+  }
+}

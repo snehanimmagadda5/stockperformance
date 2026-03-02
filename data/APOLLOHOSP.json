@@ -1,0 +1,2437 @@
+{
+  "ticker": "APOLLOHOSP",
+  "last_updated": "2026-03-01 18:49",
+  "sources": {
+    "screener": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+    "trendlyne": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+    "prices": "https://finance.yahoo.com/quote/APOLLOHOSP.NS"
+  },
+  "annual": {
+    "years": [
+      "Mar 2014",
+      "Mar 2015",
+      "Mar 2016",
+      "Mar 2017",
+      "Mar 2018",
+      "Mar 2019",
+      "Mar 2020",
+      "Mar 2021",
+      "Mar 2022",
+      "Mar 2023",
+      "Mar 2024",
+      "Mar 2025",
+      "TTM"
+    ],
+    "sales": [
+      {
+        "value": 4357.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 5129.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 6150.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 7256.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 8243.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 9617.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 11247.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 10560.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 14663.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 16612.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 19059.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 21794.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 24215.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Sales in ₹Cr"
+      }
+    ],
+    "net_profit": [
+      {
+        "value": 315.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 335.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 235.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 131.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 60.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 200.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 432.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 137.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 1108.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 844.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 935.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 1505.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 1866.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      }
+    ],
+    "npm_pct": [
+      {
+        "value": 7.23,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 6.53,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 3.82,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 1.81,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 0.73,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 2.08,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 3.84,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 1.3,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 7.56,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 5.08,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 4.91,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 6.91,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 7.71,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      }
+    ],
+    "cagr_sales_3yr": [
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": 18.53,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 17.13,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 16.07,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 15.73,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 8.61,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 15.1,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 13.88,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 21.75,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 14.12,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 13.38,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      }
+    ],
+    "cagr_np_3yr": [
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": -25.36,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": -43.63,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": -5.23,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 48.85,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 31.68,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 76.94,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 25.01,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 89.68,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 10.75,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 30.27,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      }
+    ],
+    "eps": [
+      {
+        "value": 22.77,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 24.43,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 16.99,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 15.88,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 8.44,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 16.96,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 32.7,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 10.46,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 73.42,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 56.97,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 62.5,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 100.56,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 125.32,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "EPS in ₹"
+      }
+    ],
+    "pe": [
+      {
+        "value": 38.5,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2014"
+      },
+      {
+        "value": 53.9,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2015"
+      },
+      {
+        "value": 75.6,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2016"
+      },
+      {
+        "value": 71.2,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2017"
+      },
+      {
+        "value": 123.0,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2018"
+      },
+      {
+        "value": 70.9,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2019"
+      },
+      {
+        "value": 34.3,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2020"
+      },
+      {
+        "value": 273.9,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2021"
+      },
+      {
+        "value": 60.8,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2022"
+      },
+      {
+        "value": 75.0,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2023"
+      },
+      {
+        "value": 101.1,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2024"
+      },
+      {
+        "value": 65.6,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2025"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=TTM"
+      }
+    ],
+    "roe_pct": [
+      {
+        "value": 10.58,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 10.56,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 7.05,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 3.95,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 1.85,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 6.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 12.93,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 2.98,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 19.7,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 13.62,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 13.48,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 18.33,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 20.52,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      }
+    ],
+    "roce_pct": [
+      {
+        "value": 12.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 12.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 9.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 8.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 7.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 10.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 14.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 8.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 17.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 14.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 15.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 17.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "ROCE%"
+      }
+    ],
+    "roa_pct": [
+      {
+        "value": 5.89,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 5.19,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 3.19,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 1.62,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 0.7,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 2.18,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 3.83,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 1.2,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 8.36,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 5.85,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 5.58,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 7.29,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 8.5,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      }
+    ],
+    "de_ratio": [
+      {
+        "value": 0.45,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.63,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.85,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.94,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 1.05,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 1.1,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 1.08,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.9,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.72,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.7,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.77,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.96,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.88,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      }
+    ],
+    "mc": [
+      {
+        "value": 122.73,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2014"
+      },
+      {
+        "value": 184.34,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2015"
+      },
+      {
+        "value": 179.75,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2016"
+      },
+      {
+        "value": 158.23,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2017"
+      },
+      {
+        "value": 145.38,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2018"
+      },
+      {
+        "value": 168.39,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2019"
+      },
+      {
+        "value": 157.15,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2020"
+      },
+      {
+        "value": 412.59,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2021"
+      },
+      {
+        "value": 642.32,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2022"
+      },
+      {
+        "value": 615.64,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2023"
+      },
+      {
+        "value": 910.31,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2024"
+      },
+      {
+        "value": 950.25,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2025"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=TTM"
+      }
+    ],
+    "ev": [
+      {
+        "value": 1466.73,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2014"
+      },
+      {
+        "value": 2176.34,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2015"
+      },
+      {
+        "value": 3013.75,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2016"
+      },
+      {
+        "value": 3283.23,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2017"
+      },
+      {
+        "value": 3572.38,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2018"
+      },
+      {
+        "value": 3841.39,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2019"
+      },
+      {
+        "value": 3753.15,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2020"
+      },
+      {
+        "value": 4572.59,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2021"
+      },
+      {
+        "value": 4710.32,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2022"
+      },
+      {
+        "value": 4947.64,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2023"
+      },
+      {
+        "value": 6243.31,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2024"
+      },
+      {
+        "value": 8814.25,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2025"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=TTM"
+      }
+    ],
+    "mc_ev": [
+      {
+        "value": 0.08,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.08,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.06,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.05,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.04,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.04,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.04,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.09,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.14,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.12,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.15,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.11,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/APOLLOHOSP.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      }
+    ],
+    "book_value": [
+      {
+        "value": 212.64,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 226.57,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 238.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 236.71,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 232.29,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 238.14,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 238.57,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 319.65,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 390.49,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 430.42,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 481.67,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 570.28,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 631.46,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      }
+    ],
+    "equity_capital": [
+      {
+        "value": 70.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 70.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 70.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 70.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 70.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 70.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 70.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 72.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 72.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 72.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 72.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 72.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 72.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      }
+    ],
+    "face_value": [
+      {
+        "value": 5.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 5.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 5.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 5.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 5.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 5.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 5.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 5.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 5.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 5.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 5.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 5.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 5.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Face Value in ₹"
+      }
+    ],
+    "dividend": [
+      {
+        "value": 25.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 24.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 35.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 38.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 59.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 35.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 18.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 29.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 16.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 26.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 26.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 13.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Dividend per share in ₹"
+      }
+    ],
+    "div_pct": [
+      {
+        "value": 500.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 480.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 700.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 760.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 1180.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 700.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 360.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 580.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 320.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 520.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 520.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 260.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": null,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      }
+    ],
+    "borrowings": [
+      {
+        "value": 1344.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 1992.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 2834.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 3125.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 3427.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 3673.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 3596.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 4160.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 4068.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 4332.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 5333.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 7864.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 7987.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      }
+    ],
+    "cash": [
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      }
+    ],
+    "total_assets": [
+      {
+        "value": 5350.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 6459.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 7360.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 8103.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 8596.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 9166.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 11289.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 11392.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 13261.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 14416.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 16742.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 20644.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 21950.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      }
+    ],
+    "shareholding": {
+      "Mar 2023": {
+        "fii": {
+          "value": 46.96,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 17.76,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 29.33,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 5.72,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Mar 2024": {
+        "fii": {
+          "value": 45.63,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 19.55,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 29.33,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 5.26,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Mar 2025": {
+        "fii": {
+          "value": 42.74,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 22.29,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 29.34,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 5.41,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      }
+    }
+  },
+  "quarterly": {
+    "quarters": [
+      "Dec 2022",
+      "Mar 2023",
+      "Jun 2023",
+      "Sep 2023",
+      "Dec 2023",
+      "Mar 2024",
+      "Jun 2024",
+      "Sep 2024",
+      "Dec 2024",
+      "Mar 2025",
+      "Jun 2025",
+      "Sep 2025",
+      "Dec 2025"
+    ],
+    "sales": [
+      {
+        "value": 4264.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 4302.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 4418.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 4847.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 4851.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 4944.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 5086.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 5589.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 5527.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 5592.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 5842.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 6304.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 6477.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      }
+    ],
+    "net_profit": [
+      {
+        "value": 162.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 146.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 173.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 249.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 254.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 258.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 316.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 396.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 379.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 414.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 441.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 494.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 516.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      }
+    ],
+    "npm_pct": [
+      {
+        "value": 3.8,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 3.39,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 3.92,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 5.14,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 5.24,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 5.22,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 6.21,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 7.09,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 6.86,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 7.4,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 7.55,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 7.84,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 7.97,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      }
+    ],
+    "shareholding": {
+      "Mar 2023": {
+        "fii": {
+          "value": 46.96,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 17.76,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 29.33,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 5.72,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Jun 2023": {
+        "fii": {
+          "value": 47.93,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 17.02,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 29.33,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 5.49,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Sep 2023": {
+        "fii": {
+          "value": 46.15,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 18.59,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 29.33,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 5.68,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Dec 2023": {
+        "fii": {
+          "value": 46.25,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 18.87,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 29.33,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 5.32,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Mar 2024": {
+        "fii": {
+          "value": 45.63,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 19.55,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 29.33,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 5.26,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Jun 2024": {
+        "fii": {
+          "value": 43.92,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 21.13,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 29.33,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 5.38,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Sep 2024": {
+        "fii": {
+          "value": 45.37,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 19.94,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 29.33,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 5.12,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Dec 2024": {
+        "fii": {
+          "value": 45.27,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 19.97,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 29.33,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 5.21,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Mar 2025": {
+        "fii": {
+          "value": 42.74,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 22.29,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 29.34,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 5.41,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Jun 2025": {
+        "fii": {
+          "value": 43.49,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 21.34,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 29.34,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 5.61,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Sep 2025": {
+        "fii": {
+          "value": 44.2,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 21.12,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 28.02,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 6.43,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Dec 2025": {
+        "fii": {
+          "value": 43.54,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 21.5,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 28.02,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 6.71,
+          "color": "green",
+          "source": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      }
+    }
+  }
+}

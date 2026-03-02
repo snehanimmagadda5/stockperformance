@@ -1,0 +1,10 @@
+# Credentials — never commit this
+config.json
+
+# Mac system files
+.DS_Store
+.Rhistory
+
+# Python compiled files
+__pycache__/
+*.pyc

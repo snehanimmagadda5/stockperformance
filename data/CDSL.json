@@ -1,0 +1,2437 @@
+{
+  "ticker": "CDSL",
+  "last_updated": "2026-03-01 18:49",
+  "sources": {
+    "screener": "https://www.screener.in/company/CDSL/consolidated/",
+    "trendlyne": "https://www.screener.in/company/CDSL/consolidated/",
+    "prices": "https://finance.yahoo.com/quote/CDSL.NS"
+  },
+  "annual": {
+    "years": [
+      "Mar 2014",
+      "Mar 2015",
+      "Mar 2016",
+      "Mar 2017",
+      "Mar 2018",
+      "Mar 2019",
+      "Mar 2020",
+      "Mar 2021",
+      "Mar 2022",
+      "Mar 2023",
+      "Mar 2024",
+      "Mar 2025",
+      "TTM"
+    ],
+    "sales": [
+      {
+        "value": 89.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 105.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 123.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 146.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 188.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 196.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 225.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 344.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 551.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 555.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 812.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 1082.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 1107.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Sales in ₹Cr"
+      }
+    ],
+    "net_profit": [
+      {
+        "value": 50.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 43.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 91.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 87.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 104.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 115.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 107.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 201.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 312.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 276.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 420.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 526.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 476.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      }
+    ],
+    "npm_pct": [
+      {
+        "value": 56.18,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 40.95,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 73.98,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 59.59,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 55.32,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 58.67,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 47.56,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 58.43,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 56.62,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 49.73,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 51.72,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 48.61,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 43.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      }
+    ],
+    "cagr_sales_3yr": [
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": 17.94,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 21.43,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 16.8,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 15.51,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 22.31,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 41.13,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 35.11,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 33.15,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 25.23,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 25.88,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      }
+    ],
+    "cagr_np_3yr": [
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": 20.28,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 34.23,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 8.11,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 7.14,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 24.56,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 39.47,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 37.14,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 27.85,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 19.02,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 19.92,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      }
+    ],
+    "eps": [
+      {
+        "value": 2.36,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 2.09,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 4.35,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 4.1,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 4.94,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 5.43,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 5.08,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 9.59,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 14.89,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 13.2,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 20.05,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 25.2,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 22.79,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "EPS in ₹"
+      }
+    ],
+    "pe": [
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2014"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2015"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2016"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2017"
+      },
+      {
+        "value": 26.1,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2018"
+      },
+      {
+        "value": 20.6,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2019"
+      },
+      {
+        "value": 19.9,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2020"
+      },
+      {
+        "value": 32.6,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2021"
+      },
+      {
+        "value": 47.6,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2022"
+      },
+      {
+        "value": 33.4,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2023"
+      },
+      {
+        "value": 42.0,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2024"
+      },
+      {
+        "value": 48.0,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2025"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=TTM"
+      }
+    ],
+    "roe_pct": [
+      {
+        "value": 14.16,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 11.65,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 19.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 16.32,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 17.39,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 17.22,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 14.8,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 22.92,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 28.57,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 22.75,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 28.71,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 29.89,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 27.31,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      }
+    ],
+    "roce_pct": [
+      {
+        "value": 12.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 14.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 22.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 22.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 24.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 22.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 18.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 31.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 40.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 30.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 40.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 42.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "ROCE%"
+      }
+    ],
+    "roa_pct": [
+      {
+        "value": 10.99,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 8.76,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 16.46,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 14.36,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 15.07,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 14.67,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 12.41,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 18.54,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 23.53,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 18.94,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 23.58,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 24.33,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 19.97,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      }
+    ],
+    "de_ratio": [
+      {
+        "value": 0.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      }
+    ],
+    "mc": [
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2014"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2015"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2016"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2017"
+      },
+      {
+        "value": 13.39,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2018"
+      },
+      {
+        "value": 11.64,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2019"
+      },
+      {
+        "value": 10.51,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2020"
+      },
+      {
+        "value": 32.47,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2021"
+      },
+      {
+        "value": 73.77,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2022"
+      },
+      {
+        "value": 45.8,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2023"
+      },
+      {
+        "value": 87.49,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2024"
+      },
+      {
+        "value": 252.93,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2025"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=TTM"
+      }
+    ],
+    "ev": [
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2014"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2015"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2016"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2017"
+      },
+      {
+        "value": 13.39,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2018"
+      },
+      {
+        "value": 11.64,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2019"
+      },
+      {
+        "value": 10.51,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2020"
+      },
+      {
+        "value": 32.47,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2021"
+      },
+      {
+        "value": 73.77,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2022"
+      },
+      {
+        "value": 47.8,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2023"
+      },
+      {
+        "value": 88.49,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2024"
+      },
+      {
+        "value": 255.93,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2025"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=TTM"
+      }
+    ],
+    "mc_ev": [
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 1.0,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 1.0,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 1.0,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 1.0,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 1.0,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.96,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.99,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.99,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CDSL.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      }
+    ],
+    "book_value": [
+      {
+        "value": 33.94,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 35.48,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 46.06,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 51.25,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 57.5,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 64.23,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 69.52,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 84.33,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 105.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 116.63,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 140.67,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 84.21,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 83.4,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      }
+    ],
+    "equity_capital": [
+      {
+        "value": 104.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 104.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 104.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 104.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 104.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 104.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 104.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 104.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 104.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 104.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 104.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 209.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 209.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      }
+    ],
+    "face_value": [
+      {
+        "value": 10.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 10.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 10.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 10.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 10.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 10.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 10.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 10.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 10.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 10.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 10.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 10.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 10.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Face Value in ₹"
+      }
+    ],
+    "dividend": [
+      {
+        "value": 42.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 53.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 29.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 37.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 35.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 37.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 44.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 47.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 50.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 61.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 55.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 50.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Dividend per share in ₹"
+      }
+    ],
+    "div_pct": [
+      {
+        "value": 420.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 530.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 290.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 370.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 350.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 370.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 440.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 470.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 500.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 610.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 550.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 500.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": null,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      }
+    ],
+    "borrowings": [
+      {
+        "value": 0.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 0.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 0.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 0.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 0.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 0.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 0.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 0.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 0.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 1.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 3.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      }
+    ],
+    "cash": [
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      }
+    ],
+    "total_assets": [
+      {
+        "value": 455.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 491.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 553.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 606.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 690.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 784.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 862.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 1084.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 1326.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 1457.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 1781.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 2162.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 2384.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      }
+    ],
+    "shareholding": {
+      "Mar 2023": {
+        "fii": {
+          "value": 14.67,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 18.48,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 20.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 46.85,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Mar 2024": {
+        "fii": {
+          "value": 11.38,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 23.15,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 15.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 50.47,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Mar 2025": {
+        "fii": {
+          "value": 11.34,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 15.41,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 15.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 58.25,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      }
+    }
+  },
+  "quarterly": {
+    "quarters": [
+      "Dec 2022",
+      "Mar 2023",
+      "Jun 2023",
+      "Sep 2023",
+      "Dec 2023",
+      "Mar 2024",
+      "Jun 2024",
+      "Sep 2024",
+      "Dec 2024",
+      "Mar 2025",
+      "Jun 2025",
+      "Sep 2025",
+      "Dec 2025"
+    ],
+    "sales": [
+      {
+        "value": 141.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 125.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 150.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 207.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 214.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 241.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 257.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 322.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 278.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 224.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 259.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 319.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 304.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      }
+    ],
+    "net_profit": [
+      {
+        "value": 75.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 63.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 74.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 109.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 107.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 129.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 134.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 162.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 130.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 100.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 102.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 140.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 133.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      }
+    ],
+    "npm_pct": [
+      {
+        "value": 53.19,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 50.4,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 49.33,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 52.66,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 50.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 53.53,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 52.14,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 50.31,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 46.76,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 44.64,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 39.38,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 43.89,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 43.75,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CDSL/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      }
+    ],
+    "shareholding": {
+      "Mar 2023": {
+        "fii": {
+          "value": 14.67,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 18.48,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 20.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 46.85,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Jun 2023": {
+        "fii": {
+          "value": 15.1,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 22.03,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 15.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 47.87,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Sep 2023": {
+        "fii": {
+          "value": 15.25,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 21.8,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 15.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 47.94,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Dec 2023": {
+        "fii": {
+          "value": 18.16,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 21.33,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 15.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 45.51,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Mar 2024": {
+        "fii": {
+          "value": 11.38,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 23.15,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 15.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 50.47,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Jun 2024": {
+        "fii": {
+          "value": 14.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 24.92,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 15.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 46.09,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Sep 2024": {
+        "fii": {
+          "value": 13.77,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 21.57,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 15.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 49.66,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Dec 2024": {
+        "fii": {
+          "value": 17.15,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 19.11,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 15.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 48.74,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Mar 2025": {
+        "fii": {
+          "value": 11.34,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 15.41,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 15.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 58.25,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Jun 2025": {
+        "fii": {
+          "value": 12.9,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 14.24,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 15.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 57.87,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Sep 2025": {
+        "fii": {
+          "value": 11.54,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 14.18,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 15.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 59.28,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Dec 2025": {
+        "fii": {
+          "value": 12.4,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 15.12,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 15.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 57.49,
+          "color": "green",
+          "source": "https://www.screener.in/company/CDSL/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      }
+    }
+  }
+}

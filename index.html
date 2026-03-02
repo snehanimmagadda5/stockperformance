@@ -1,0 +1,832 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Indian Stocks — Financial Performance</title>
+
+  <style>
+    /* ──────────────────────────────────────────
+       GLOBAL RESET & BASE
+    ────────────────────────────────────────── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Segoe UI', Arial, sans-serif;
+      font-size: 13px;
+      background: #f0f2f5;
+      color: #1a1a2e;
+    }
+
+    /* ──────────────────────────────────────────
+       PASSWORD OVERLAY
+    ────────────────────────────────────────── */
+    #pw-overlay {
+      position: fixed;
+      inset: 0;
+      background: #1a1a2e;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 9999;
+    }
+
+    #pw-box {
+      background: #fff;
+      border-radius: 12px;
+      padding: 40px 48px;
+      text-align: center;
+      box-shadow: 0 8px 40px rgba(0,0,0,0.4);
+      min-width: 320px;
+    }
+
+    #pw-box h2 {
+      font-size: 18px;
+      margin-bottom: 6px;
+      color: #1a1a2e;
+    }
+
+    #pw-box p {
+      color: #666;
+      font-size: 12px;
+      margin-bottom: 20px;
+    }
+
+    #pw-input {
+      width: 100%;
+      padding: 10px 14px;
+      border: 1.5px solid #ccc;
+      border-radius: 8px;
+      font-size: 15px;
+      letter-spacing: 2px;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+
+    #pw-input:focus { border-color: #2563eb; }
+
+    #pw-btn {
+      margin-top: 14px;
+      width: 100%;
+      padding: 10px;
+      background: #2563eb;
+      color: #fff;
+      border: none;
+      border-radius: 8px;
+      font-size: 14px;
+      cursor: pointer;
+      font-weight: 600;
+      transition: background 0.2s;
+    }
+
+    #pw-btn:hover { background: #1d4ed8; }
+
+    #pw-error {
+      color: #dc2626;
+      font-size: 12px;
+      margin-top: 10px;
+      display: none;
+    }
+
+    /* ──────────────────────────────────────────
+       MAIN CONTENT (hidden until unlocked)
+    ────────────────────────────────────────── */
+    #main-content { display: none; padding: 20px 24px; max-width: 1600px; margin: 0 auto; }
+
+    /* ──────────────────────────────────────────
+       HEADER
+    ────────────────────────────────────────── */
+    header {
+      background: #1a1a2e;
+      color: #fff;
+      padding: 14px 24px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    header h1 { font-size: 17px; font-weight: 700; letter-spacing: 0.5px; }
+    header span { font-size: 12px; color: #94a3b8; }
+
+    /* ──────────────────────────────────────────
+       STOCK SELECTOR
+    ────────────────────────────────────────── */
+    .selector-bar {
+      background: #fff;
+      border-radius: 10px;
+      padding: 14px 18px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-top: 18px;
+      box-shadow: 0 1px 6px rgba(0,0,0,0.08);
+    }
+
+    .selector-bar label { font-weight: 600; font-size: 13px; white-space: nowrap; }
+
+    #ticker-input {
+      padding: 8px 12px;
+      border: 1.5px solid #cbd5e1;
+      border-radius: 7px;
+      font-size: 13px;
+      width: 180px;
+      text-transform: uppercase;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+
+    #ticker-input:focus { border-color: #2563eb; }
+
+    #ticker-select {
+      padding: 8px 12px;
+      border: 1.5px solid #cbd5e1;
+      border-radius: 7px;
+      font-size: 13px;
+      outline: none;
+      background: #fff;
+      min-width: 180px;
+    }
+
+    #load-btn {
+      padding: 8px 22px;
+      background: #2563eb;
+      color: #fff;
+      border: none;
+      border-radius: 7px;
+      font-size: 13px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+
+    #load-btn:hover { background: #1d4ed8; }
+
+    #load-status { font-size: 12px; color: #64748b; }
+
+    /* ──────────────────────────────────────────
+       LEGEND BAR (sticky, always visible)
+    ────────────────────────────────────────── */
+    .legend-bar {
+      background: #fff;
+      border-radius: 10px;
+      padding: 10px 18px;
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      margin-top: 12px;
+      box-shadow: 0 1px 6px rgba(0,0,0,0.08);
+      flex-wrap: wrap;
+      font-size: 12px;
+    }
+
+    .legend-bar strong { font-size: 12px; color: #475569; margin-right: 4px; }
+
+    .legend-item {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .legend-swatch {
+      width: 16px;
+      height: 16px;
+      border-radius: 3px;
+      border: 1px solid rgba(0,0,0,0.1);
+      flex-shrink: 0;
+    }
+
+    .legend-tip {
+      font-size: 11px;
+      color: #64748b;
+      margin-left: auto;
+      font-style: italic;
+    }
+
+    /* ──────────────────────────────────────────
+       TABLE SECTIONS
+    ────────────────────────────────────────── */
+    .table-section {
+      background: #fff;
+      border-radius: 10px;
+      margin-top: 16px;
+      box-shadow: 0 1px 6px rgba(0,0,0,0.08);
+      overflow: hidden;
+    }
+
+    .table-section-header {
+      background: #1a1a2e;
+      color: #fff;
+      padding: 12px 18px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .table-section-header h2 { font-size: 14px; font-weight: 700; }
+    .table-section-header .ts-meta { font-size: 11px; color: #94a3b8; }
+
+    .table-scroll-wrap { overflow-x: auto; }
+
+    /* ──────────────────────────────────────────
+       DATA TABLE
+    ────────────────────────────────────────── */
+    .data-table {
+      border-collapse: collapse;
+      width: 100%;
+      font-size: 12px;
+    }
+
+    .data-table th,
+    .data-table td {
+      border: 1px solid #e2e8f0;
+      padding: 7px 10px;
+      text-align: right;
+      white-space: nowrap;
+    }
+
+    /* First column = parameter label, left-aligned and sticky */
+    .data-table th:first-child,
+    .data-table td:first-child {
+      text-align: left;
+      position: sticky;
+      left: 0;
+      background: #f8fafc;
+      font-weight: 600;
+      z-index: 2;
+      min-width: 210px;
+      border-right: 2px solid #cbd5e1;
+    }
+
+    /* Header row — sticky top */
+    .data-table thead th {
+      position: sticky;
+      top: 0;
+      background: #1e293b;
+      color: #f1f5f9;
+      font-weight: 600;
+      font-size: 11px;
+      z-index: 3;
+    }
+
+    .data-table thead th:first-child {
+      z-index: 4;
+      background: #1e293b;
+      color: #f1f5f9;
+    }
+
+    /* Zebra rows */
+    .data-table tbody tr:nth-child(even) td:first-child { background: #f1f5f9; }
+    .data-table tbody tr:hover td { filter: brightness(0.97); }
+
+    /* ── Color cells ── */
+    .cell-green  { background-color: #C6EFCE; }
+    .cell-yellow { background-color: #FFEB9C; }
+    .cell-orange { background-color: #F4B942; }
+    .cell-red    { background-color: #FFC7CE; color: #9b1c1c; font-style: italic; font-size: 11px; }
+
+    /* ── Tooltip ── */
+    [data-tip] {
+      position: relative;
+      cursor: help;
+    }
+
+    [data-tip]:hover::after {
+      content: attr(data-tip);
+      position: absolute;
+      bottom: calc(100% + 6px);
+      left: 50%;
+      transform: translateX(-50%);
+      background: #1e293b;
+      color: #f8fafc;
+      padding: 6px 10px;
+      border-radius: 6px;
+      font-size: 11px;
+      white-space: pre-wrap;
+      max-width: 280px;
+      text-align: left;
+      z-index: 100;
+      pointer-events: none;
+      line-height: 1.4;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    }
+
+    /* ── Section divider rows ── */
+    .group-header td {
+      background: #e2e8f0 !important;
+      font-weight: 700;
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      color: #475569;
+    }
+
+    /* Shareholding sub-table */
+    .sh-sub-table {
+      font-size: 11px;
+      width: 100%;
+    }
+    .sh-sub-table td {
+      padding: 4px 8px;
+      text-align: right;
+    }
+    .sh-sub-table td:first-child {
+      text-align: left;
+      font-weight: 600;
+      color: #475569;
+      width: 64px;
+    }
+
+    /* ──────────────────────────────────────────
+       LOADING / ERROR STATES
+    ────────────────────────────────────────── */
+    .placeholder-msg {
+      text-align: center;
+      padding: 60px 20px;
+      color: #94a3b8;
+      font-size: 14px;
+    }
+
+    .error-msg {
+      text-align: center;
+      padding: 30px;
+      color: #dc2626;
+      font-size: 13px;
+    }
+  </style>
+</head>
+<body>
+
+<!-- ═══════════════════════════════════════════
+     PASSWORD OVERLAY
+════════════════════════════════════════════ -->
+<div id="pw-overlay">
+  <div id="pw-box">
+    <h2>Indian Stocks Dashboard</h2>
+    <p>Enter your password to continue</p>
+    <input type="password" id="pw-input" placeholder="Password" autocomplete="off" />
+    <button id="pw-btn">Unlock</button>
+    <div id="pw-error">Incorrect password. Please try again.</div>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════
+     HEADER
+════════════════════════════════════════════ -->
+<header>
+  <h1>Indian Stocks — Financial Performance</h1>
+  <span id="header-date"></span>
+</header>
+
+<!-- ═══════════════════════════════════════════
+     MAIN CONTENT
+════════════════════════════════════════════ -->
+<div id="main-content">
+
+  <!-- Stock selector -->
+  <div class="selector-bar">
+    <label>Company:</label>
+    <input type="text" id="ticker-input" placeholder="e.g. LAURUSLABS" />
+    <span style="color:#94a3b8;font-size:12px;">or pick from list →</span>
+    <select id="ticker-select">
+      <option value="">-- select --</option>
+    </select>
+    <button id="load-btn">Load Data</button>
+    <span id="load-status"></span>
+  </div>
+
+  <!-- Legend (always visible) -->
+  <div class="legend-bar">
+    <strong>Legend:</strong>
+    <div class="legend-item">
+      <div class="legend-swatch cell-green"></div>
+      Directly sourced from website
+    </div>
+    <div class="legend-item">
+      <div class="legend-swatch cell-yellow"></div>
+      Calculated from sourced values
+    </div>
+    <div class="legend-item">
+      <div class="legend-swatch cell-orange"></div>
+      Estimated (year-end price × metric)
+    </div>
+    <div class="legend-item">
+      <div class="legend-swatch cell-red"></div>
+      Unavailable / blank
+    </div>
+    <span class="legend-tip">Hover any cell to see source URL or formula</span>
+  </div>
+
+  <!-- Format 1: Annual -->
+  <div class="table-section" id="annual-section">
+    <div class="table-section-header">
+      <h2>Format 1 — Annual Performance</h2>
+      <span class="ts-meta" id="annual-updated"></span>
+    </div>
+    <div class="table-scroll-wrap">
+      <div id="annual-table-container">
+        <div class="placeholder-msg">Select a company above and click Load Data.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Format 2: Quarterly -->
+  <div class="table-section" id="quarterly-section">
+    <div class="table-section-header">
+      <h2>Format 2 — Quarterly Performance</h2>
+      <span class="ts-meta" id="quarterly-updated"></span>
+    </div>
+    <div class="table-scroll-wrap">
+      <div id="quarterly-table-container">
+        <div class="placeholder-msg">Select a company above and click Load Data.</div>
+      </div>
+    </div>
+  </div>
+
+</div><!-- /main-content -->
+
+
+<script>
+/* ═══════════════════════════════════════════
+   PASSWORD PROTECTION
+   To change the password: edit DASHBOARD_PASSWORD below.
+   The SHA-256 hash is computed in the browser — the
+   plaintext password is never stored in this file.
+════════════════════════════════════════════ */
+
+// ── Change this value to set a new password ──
+const DASHBOARD_PASSWORD = "stocks2025";
+// ─────────────────────────────────────────────
+
+async function sha256(str) {
+  const buf  = new TextEncoder().encode(str);
+  const hash = await crypto.subtle.digest("SHA-256", buf);
+  return Array.from(new Uint8Array(hash)).map(b => b.toString(16).padStart(2, "0")).join("");
+}
+
+// Pre-compute the hash of the hardcoded password once on load
+let PW_HASH_STORED = "";
+sha256(DASHBOARD_PASSWORD).then(h => { PW_HASH_STORED = h; });
+
+document.getElementById("pw-btn").addEventListener("click", checkPassword);
+document.getElementById("pw-input").addEventListener("keydown", e => {
+  if (e.key === "Enter") checkPassword();
+});
+
+async function checkPassword() {
+  const entered = document.getElementById("pw-input").value;
+  const enteredHash = await sha256(entered);
+  if (enteredHash === PW_HASH_STORED) {
+    document.getElementById("pw-overlay").style.display = "none";
+    document.getElementById("main-content").style.display = "block";
+  } else {
+    document.getElementById("pw-error").style.display = "block";
+    document.getElementById("pw-input").value = "";
+    document.getElementById("pw-input").focus();
+  }
+}
+
+
+/* ═══════════════════════════════════════════
+   HEADER DATE
+════════════════════════════════════════════ */
+document.getElementById("header-date").textContent =
+  "Last visited: " + new Date().toLocaleDateString("en-IN", {day:"2-digit", month:"short", year:"numeric"});
+
+
+/* ═══════════════════════════════════════════
+   STOCK SELECTOR — populate from data/ folder
+   GitHub Pages serves directory listings as HTML;
+   we parse that to find .json files.
+════════════════════════════════════════════ */
+async function populateTickers() {
+  try {
+    const r = await fetch("data/tickers.json");
+    if (!r.ok) return;
+    const tickers = await r.json();
+    const sel = document.getElementById("ticker-select");
+    tickers.forEach(ticker => {
+      const opt = document.createElement("option");
+      opt.value = ticker;
+      opt.textContent = ticker;
+      sel.appendChild(opt);
+    });
+  } catch(e) {
+    // Silently ignore — user can still type ticker manually
+  }
+}
+populateTickers();
+
+// When dropdown changes, fill text input
+document.getElementById("ticker-select").addEventListener("change", function() {
+  if (this.value) document.getElementById("ticker-input").value = this.value;
+});
+
+document.getElementById("load-btn").addEventListener("click", loadCompany);
+document.getElementById("ticker-input").addEventListener("keydown", e => {
+  if (e.key === "Enter") loadCompany();
+});
+
+
+/* ═══════════════════════════════════════════
+   LOAD COMPANY DATA
+════════════════════════════════════════════ */
+async function loadCompany() {
+  const ticker = document.getElementById("ticker-input").value.trim().toUpperCase();
+  if (!ticker) { alert("Please enter a ticker symbol."); return; }
+
+  const statusEl = document.getElementById("load-status");
+  statusEl.textContent = "Loading…";
+
+  try {
+    const r = await fetch(`data/${ticker}.json`);
+    if (!r.ok) throw new Error(`No data file found for ${ticker}. Run: python fetch_data.py ${ticker}`);
+    const data = await r.json();
+    statusEl.textContent = `Loaded ${ticker} ✓`;
+    renderDashboard(data);
+  } catch(e) {
+    statusEl.textContent = "";
+    document.getElementById("annual-table-container").innerHTML =
+      `<div class="error-msg">${e.message}</div>`;
+    document.getElementById("quarterly-table-container").innerHTML = "";
+  }
+}
+
+
+/* ═══════════════════════════════════════════
+   HELPERS
+════════════════════════════════════════════ */
+
+/** Format a number with commas and up to 2 decimal places. */
+function fmt(val) {
+  if (val === null || val === undefined) return "—";
+  if (typeof val === "number") {
+    // Use locale formatting with up to 2 decimal places
+    return val.toLocaleString("en-IN", { maximumFractionDigits: 2 });
+  }
+  return val;
+}
+
+/** Build tooltip string from a cell object. */
+function tipText(cell) {
+  if (!cell) return "";
+  const parts = [];
+  if (cell.note)   parts.push(cell.note);
+  if (cell.source) parts.push("Source: " + cell.source);
+  return parts.join("\n");
+}
+
+/**
+ * Create a <td> element for a data cell.
+ * cell = { value, color, source, note }
+ */
+function makeTd(cell) {
+  const td = document.createElement("td");
+  const color = (cell && cell.color) || "red";
+  td.className = `cell-${color}`;
+  td.setAttribute("data-tip", tipText(cell));
+
+  if (!cell || cell.value === null || cell.value === undefined) {
+    td.textContent = "—";
+  } else {
+    td.textContent = fmt(cell.value);
+  }
+  return td;
+}
+
+/** Create a group-divider row spanning all columns. */
+function makeGroupRow(label, colSpan) {
+  const tr = document.createElement("tr");
+  tr.className = "group-header";
+  const td = document.createElement("td");
+  td.colSpan = colSpan;
+  td.textContent = label;
+  tr.appendChild(td);
+  return tr;
+}
+
+
+/* ═══════════════════════════════════════════
+   RENDER DASHBOARD
+════════════════════════════════════════════ */
+function renderDashboard(data) {
+  const ts = data.last_updated || "";
+  document.getElementById("annual-updated").textContent   = ts ? `Data as of: ${ts}` : "";
+  document.getElementById("quarterly-updated").textContent = ts ? `Data as of: ${ts}` : "";
+
+  renderAnnual(data);
+  renderQuarterly(data);
+}
+
+
+/* ═══════════════════════════════════════════
+   FORMAT 1 — ANNUAL TABLE
+════════════════════════════════════════════ */
+function renderAnnual(data) {
+  const a = data.annual;
+  const years = a.years || [];
+  const nYears = years.length;
+  const colSpan = nYears + 1;
+
+  const table = document.createElement("table");
+  table.className = "data-table";
+
+  // ── Header row ──────────────────────────────────────────────────────
+  const thead = document.createElement("thead");
+  const headerTr = document.createElement("tr");
+  const thLabel = document.createElement("th");
+  thLabel.textContent = "Metric";
+  headerTr.appendChild(thLabel);
+  years.forEach(yr => {
+    const th = document.createElement("th");
+    th.textContent = yr;
+    headerTr.appendChild(th);
+  });
+  thead.appendChild(headerTr);
+  table.appendChild(thead);
+
+  const tbody = document.createElement("tbody");
+
+  /** Helper: add a plain data row */
+  function addRow(label, metricKey, unit) {
+    const cells = a[metricKey] || [];
+    const tr = document.createElement("tr");
+    const td0 = document.createElement("td");
+    td0.textContent = unit ? `${label} (${unit})` : label;
+    tr.appendChild(td0);
+    for (let i = 0; i < nYears; i++) {
+      tr.appendChild(makeTd(cells[i]));
+    }
+    tbody.appendChild(tr);
+  }
+
+  // ── Section: P&L ────────────────────────────────────────────────────
+  tbody.appendChild(makeGroupRow("P&L", colSpan));
+  addRow("Sales",           "sales",          "₹Cr");
+  addRow("Net Profit",      "net_profit",      "₹Cr");
+  addRow("NPM%",            "npm_pct",         "%");
+  addRow("3yr CAGR Sales",  "cagr_sales_3yr",  "%");
+  addRow("3yr CAGR NP",     "cagr_np_3yr",     "%");
+  addRow("EPS",             "eps",             "₹");
+
+  // ── Section: Valuation ──────────────────────────────────────────────
+  tbody.appendChild(makeGroupRow("Valuation", colSpan));
+  addRow("PE",              "pe",              "×");
+  addRow("Market Cap",      "mc",              "₹Cr");
+  addRow("EV",              "ev",              "₹Cr");
+  addRow("MC/EV",           "mc_ev",           "×");
+
+  // ── Section: Returns & Efficiency ───────────────────────────────────
+  tbody.appendChild(makeGroupRow("Returns & Efficiency", colSpan));
+  addRow("ROE%",            "roe_pct",         "%");
+  addRow("ROCE%",           "roce_pct",        "%");
+  addRow("RoA%",            "roa_pct",         "%");
+
+  // ── Section: Balance Sheet ───────────────────────────────────────────
+  tbody.appendChild(makeGroupRow("Balance Sheet", colSpan));
+  addRow("D/E Ratio",       "de_ratio",        "×");
+  addRow("Book Value/Share","book_value",       "₹");
+  addRow("Equity Capital",  "equity_capital",   "₹Cr");
+  addRow("Total Borrowings","borrowings",       "₹Cr");
+  addRow("Total Assets",    "total_assets",     "₹Cr");
+
+  // ── Section: Dividend ────────────────────────────────────────────────
+  tbody.appendChild(makeGroupRow("Dividend", colSpan));
+  addRow("Face Value",      "face_value",       "₹");
+  addRow("Dividend/Share",  "dividend",         "₹");
+  addRow("Dividend%",       "div_pct",          "%");
+
+  // ── Section: Shareholding ────────────────────────────────────────────
+  tbody.appendChild(makeGroupRow("Shareholding (%)", colSpan));
+
+  // Build one row per stakeholder type across annual_sh periods
+  const shData = a.shareholding || {};  // { "Mar 2022": { fii: cell, … }, … }
+  const shLabels = ["Promoter", "FII", "DII", "Public"];
+  const shKeys   = ["promoter", "fii", "dii", "public"];
+
+  // We need to match shareholding periods to the year columns.
+  // Annual shareholding periods may not exactly match screener year labels.
+  // Strategy: for each screener year, find the nearest match in shData keys.
+  function matchShPeriod(yearLabel) {
+    const m = yearLabel.match(/(\d{4})/);
+    if (!m) return null;
+    const yr = m[1];
+    for (const [k, v] of Object.entries(shData)) {
+      if (k.includes(yr)) return v;
+    }
+    return null;
+  }
+
+  shLabels.forEach((lbl, li) => {
+    const tr = document.createElement("tr");
+    const td0 = document.createElement("td");
+    td0.textContent = lbl + "%";
+    tr.appendChild(td0);
+    for (let i = 0; i < nYears; i++) {
+      const periodData = matchShPeriod(years[i]);
+      const cell = periodData ? periodData[shKeys[li]] : null;
+      tr.appendChild(makeTd(cell || { value: null, color: "red", source: "", note: "Shareholding not found for this period" }));
+    }
+    tbody.appendChild(tr);
+  });
+
+  table.appendChild(tbody);
+
+  const container = document.getElementById("annual-table-container");
+  container.innerHTML = "";
+  container.appendChild(table);
+}
+
+
+/* ═══════════════════════════════════════════
+   FORMAT 2 — QUARTERLY TABLE
+   Layout: rows = metrics, columns = quarters
+   Grouped by FY with Q1/Q2/Q3/Q4 sub-columns
+════════════════════════════════════════════ */
+function renderQuarterly(data) {
+  const q = data.quarterly;
+  const quarters = q.quarters || [];
+  const nQ = quarters.length;
+
+  if (nQ === 0) {
+    document.getElementById("quarterly-table-container").innerHTML =
+      '<div class="placeholder-msg">No quarterly data available.</div>';
+    return;
+  }
+
+  const colSpan = nQ + 1;
+  const table = document.createElement("table");
+  table.className = "data-table";
+
+  // ── Header ──────────────────────────────────────────────────────────
+  const thead = document.createElement("thead");
+  const tr0 = document.createElement("tr");
+  const th0 = document.createElement("th");
+  th0.textContent = "Metric";
+  tr0.appendChild(th0);
+  quarters.forEach(qLabel => {
+    const th = document.createElement("th");
+    th.textContent = qLabel;
+    tr0.appendChild(th);
+  });
+  thead.appendChild(tr0);
+  table.appendChild(thead);
+
+  const tbody = document.createElement("tbody");
+
+  function addQRow(label, cells, unit) {
+    const tr = document.createElement("tr");
+    const td0 = document.createElement("td");
+    td0.textContent = unit ? `${label} (${unit})` : label;
+    tr.appendChild(td0);
+    for (let i = 0; i < nQ; i++) {
+      tr.appendChild(makeTd((cells || [])[i]));
+    }
+    tbody.appendChild(tr);
+  }
+
+  // ── P&L ─────────────────────────────────────────────────────────────
+  tbody.appendChild(makeGroupRow("P&L", colSpan));
+  addQRow("Sales",       q.sales,      "₹Cr");
+  addQRow("Net Profit",  q.net_profit, "₹Cr");
+  addQRow("NPM%",        q.npm_pct,    "%");
+
+  // ── Shareholding ─────────────────────────────────────────────────────
+  tbody.appendChild(makeGroupRow("Shareholding (%)", colSpan));
+
+  const qShData = q.shareholding || {};
+  const shLabels = ["Promoter", "FII", "DII", "Public"];
+  const shKeys   = ["promoter", "fii", "dii", "public"];
+
+  // Match quarterly label to a shareholding entry
+  function matchQShPeriod(qLabel) {
+    for (const [k, v] of Object.entries(qShData)) {
+      if (k.toLowerCase() === qLabel.toLowerCase()) return v;
+      // Fuzzy: match by partial label overlap
+      if (k.includes(qLabel) || qLabel.includes(k)) return v;
+    }
+    return null;
+  }
+
+  shLabels.forEach((lbl, li) => {
+    const tr = document.createElement("tr");
+    const td0 = document.createElement("td");
+    td0.textContent = lbl + "%";
+    tr.appendChild(td0);
+    for (let i = 0; i < nQ; i++) {
+      const periodData = matchQShPeriod(quarters[i]);
+      const cell = periodData ? periodData[shKeys[li]] : null;
+      tr.appendChild(makeTd(cell || { value: null, color: "red", source: "", note: "Shareholding not found for this quarter" }));
+    }
+    tbody.appendChild(tr);
+  });
+
+  table.appendChild(tbody);
+
+  const container = document.getElementById("quarterly-table-container");
+  container.innerHTML = "";
+  container.appendChild(table);
+}
+</script>
+
+</body>
+</html>

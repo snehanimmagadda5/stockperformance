@@ -1,0 +1,2437 @@
+{
+  "ticker": "LAURUSLABS",
+  "last_updated": "2026-03-01 18:49",
+  "sources": {
+    "screener": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+    "trendlyne": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+    "prices": "https://finance.yahoo.com/quote/LAURUSLABS.NS"
+  },
+  "annual": {
+    "years": [
+      "Mar 2014",
+      "Mar 2015",
+      "Mar 2016",
+      "Mar 2017",
+      "Mar 2018",
+      "Mar 2019",
+      "Mar 2020",
+      "Mar 2021",
+      "Mar 2022",
+      "Mar 2023",
+      "Mar 2024",
+      "Mar 2025",
+      "TTM"
+    ],
+    "sales": [
+      {
+        "value": 1160.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 1327.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 1778.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 1905.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 2056.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 2292.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 2832.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 4814.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 4936.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 6041.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 5041.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 5554.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 6722.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Sales in ₹Cr"
+      }
+    ],
+    "net_profit": [
+      {
+        "value": 97.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 68.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 134.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 190.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 168.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 94.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 255.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 984.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 832.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 793.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 162.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 358.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 841.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      }
+    ],
+    "npm_pct": [
+      {
+        "value": 8.36,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 5.12,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 7.54,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 9.97,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 8.17,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 4.1,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 9.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 20.44,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 16.86,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 13.13,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 3.21,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 6.45,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 12.51,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      }
+    ],
+    "cagr_sales_3yr": [
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": 17.98,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 15.71,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 8.83,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 14.13,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 32.79,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 29.14,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 28.73,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 1.55,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 4.01,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 3.62,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      }
+    ],
+    "cagr_np_3yr": [
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": 25.12,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 35.19,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": -11.15,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 10.31,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 80.26,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 106.85,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 45.96,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": -45.19,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": -24.5,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 1.98,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      }
+    ],
+    "eps": [
+      {
+        "value": 12.64,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 8.81,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 16.97,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 3.6,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 3.16,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 1.76,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 4.77,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 18.33,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 15.4,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 14.67,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 2.98,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 6.64,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 15.62,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "EPS in ₹"
+      }
+    ],
+    "pe": [
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2014"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2015"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2016"
+      },
+      {
+        "value": 27.7,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2017"
+      },
+      {
+        "value": 30.8,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2018"
+      },
+      {
+        "value": 44.0,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2019"
+      },
+      {
+        "value": 13.3,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2020"
+      },
+      {
+        "value": 19.4,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2021"
+      },
+      {
+        "value": 37.8,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2022"
+      },
+      {
+        "value": 19.8,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2023"
+      },
+      {
+        "value": 131.1,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2024"
+      },
+      {
+        "value": 92.2,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2025"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=TTM"
+      }
+    ],
+    "roe_pct": [
+      {
+        "value": 32.77,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 10.37,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 16.96,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 14.27,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 11.33,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 6.03,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 14.41,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 37.89,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 24.83,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 19.64,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 3.94,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 8.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 17.5,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      }
+    ],
+    "roce_pct": [
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 14.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 16.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 16.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 14.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 8.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 14.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 40.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 26.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 23.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 7.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 9.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "ROCE%"
+      }
+    ],
+    "roa_pct": [
+      {
+        "value": 7.62,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 3.6,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 6.03,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 7.16,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 5.57,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 2.82,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 6.8,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 17.11,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 11.94,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 10.35,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 1.93,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 3.83,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 8.93,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      }
+    ],
+    "de_ratio": [
+      {
+        "value": 2.04,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 1.35,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 1.38,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.63,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.66,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.66,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.61,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.57,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.53,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.5,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.63,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.62,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.46,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      }
+    ],
+    "mc": [
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2014"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2015"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2016"
+      },
+      {
+        "value": 52.78,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2017"
+      },
+      {
+        "value": 51.54,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2018"
+      },
+      {
+        "value": 41.09,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2019"
+      },
+      {
+        "value": 33.86,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2020"
+      },
+      {
+        "value": 190.63,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2021"
+      },
+      {
+        "value": 311.77,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2022"
+      },
+      {
+        "value": 156.83,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2023"
+      },
+      {
+        "value": 211.04,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2024"
+      },
+      {
+        "value": 330.51,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2025"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=TTM"
+      }
+    ],
+    "ev": [
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2014"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2015"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2016"
+      },
+      {
+        "value": 894.78,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2017"
+      },
+      {
+        "value": 1031.54,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2018"
+      },
+      {
+        "value": 1077.09,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2019"
+      },
+      {
+        "value": 1112.86,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2020"
+      },
+      {
+        "value": 1672.63,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2021"
+      },
+      {
+        "value": 2088.77,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2022"
+      },
+      {
+        "value": 2171.83,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2023"
+      },
+      {
+        "value": 2788.04,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2024"
+      },
+      {
+        "value": 3094.51,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2025"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=TTM"
+      }
+    ],
+    "mc_ev": [
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.06,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.05,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.04,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.03,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.11,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.15,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.07,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.08,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.11,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/LAURUSLABS.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      }
+    ],
+    "book_value": [
+      {
+        "value": 39.47,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 82.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 98.75,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 25.11,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 27.98,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 29.4,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 33.08,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 48.54,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 62.64,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 74.78,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 76.13,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 82.83,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 88.98,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      }
+    ],
+    "equity_capital": [
+      {
+        "value": 15.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 16.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 16.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 106.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 106.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 106.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 107.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 107.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 107.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 108.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 108.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 108.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 108.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      }
+    ],
+    "face_value": [
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Face Value in ₹"
+      }
+    ],
+    "dividend": [
+      {
+        "value": 0.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 0.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 8.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 9.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 17.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 10.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 11.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 13.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 14.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 27.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 18.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Dividend per share in ₹"
+      }
+    ],
+    "div_pct": [
+      {
+        "value": 0.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 0.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 100.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 400.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 450.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 850.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 500.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 550.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 650.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 700.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 1350.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 900.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": null,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      }
+    ],
+    "borrowings": [
+      {
+        "value": 605.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 888.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 1094.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 842.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 980.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 1036.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 1079.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 1482.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 1777.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 2015.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 2577.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 2764.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 2212.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      }
+    ],
+    "cash": [
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      }
+    ],
+    "total_assets": [
+      {
+        "value": 1273.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 1888.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 2224.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 2653.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 3017.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 3331.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 3750.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 5751.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 6968.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 7660.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 8387.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 9336.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 9415.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      }
+    ],
+    "shareholding": {
+      "Mar 2023": {
+        "fii": {
+          "value": 22.42,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 9.74,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 27.2,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 40.64,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Mar 2024": {
+        "fii": {
+          "value": 25.98,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 11.78,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 27.18,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 35.07,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Mar 2025": {
+        "fii": {
+          "value": 25.51,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 11.78,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 27.62,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 35.09,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      }
+    }
+  },
+  "quarterly": {
+    "quarters": [
+      "Dec 2022",
+      "Mar 2023",
+      "Jun 2023",
+      "Sep 2023",
+      "Dec 2023",
+      "Mar 2024",
+      "Jun 2024",
+      "Sep 2024",
+      "Dec 2024",
+      "Mar 2025",
+      "Jun 2025",
+      "Sep 2025",
+      "Dec 2025"
+    ],
+    "sales": [
+      {
+        "value": 1545.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 1381.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 1182.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 1224.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 1195.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 1440.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 1195.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 1224.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 1415.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 1720.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 1570.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 1653.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 1778.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      }
+    ],
+    "net_profit": [
+      {
+        "value": 203.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 105.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 27.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 37.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 23.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 75.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 13.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 20.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 93.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 233.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 162.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 194.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 252.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      }
+    ],
+    "npm_pct": [
+      {
+        "value": 13.14,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 7.6,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 2.28,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 3.02,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 1.92,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 5.21,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 1.09,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 1.63,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 6.57,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 13.55,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 10.32,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 11.74,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 14.17,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      }
+    ],
+    "shareholding": {
+      "Mar 2023": {
+        "fii": {
+          "value": 22.42,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 9.74,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 27.2,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 40.64,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Jun 2023": {
+        "fii": {
+          "value": 22.52,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 10.36,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 27.2,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 39.93,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Sep 2023": {
+        "fii": {
+          "value": 24.03,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 11.01,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 27.2,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 37.75,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Dec 2023": {
+        "fii": {
+          "value": 25.39,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 11.13,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 27.18,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 36.3,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Mar 2024": {
+        "fii": {
+          "value": 25.98,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 11.78,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 27.18,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 35.07,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Jun 2024": {
+        "fii": {
+          "value": 25.67,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 13.56,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 27.18,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 33.59,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Sep 2024": {
+        "fii": {
+          "value": 26.08,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 13.05,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 27.18,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 33.69,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Dec 2024": {
+        "fii": {
+          "value": 25.56,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 12.74,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 27.62,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 34.09,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Mar 2025": {
+        "fii": {
+          "value": 25.51,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 11.78,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 27.62,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 35.09,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Jun 2025": {
+        "fii": {
+          "value": 25.7,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 11.94,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 27.6,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 34.78,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Sep 2025": {
+        "fii": {
+          "value": 26.17,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 11.72,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 27.6,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 34.52,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Dec 2025": {
+        "fii": {
+          "value": 26.52,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 12.42,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 27.49,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 33.57,
+          "color": "green",
+          "source": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      }
+    }
+  }
+}
