@@ -1,0 +1,930 @@
+{
+  "ticker": "IGIL",
+  "last_updated": "2026-03-01 19:34",
+  "sources": {
+    "screener": "https://www.screener.in/company/IGIL/consolidated/",
+    "trendlyne": "https://www.screener.in/company/IGIL/consolidated/",
+    "prices": "https://finance.yahoo.com/quote/IGIL.NS"
+  },
+  "annual": {
+    "years": [
+      "Dec 2022",
+      "Dec 2023",
+      "Dec 2024",
+      "Dec 2025"
+    ],
+    "sales": [
+      {
+        "value": 491.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 639.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 1053.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 1229.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Sales in ₹Cr"
+      }
+    ],
+    "net_profit": [
+      {
+        "value": 242.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 325.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 427.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 532.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      }
+    ],
+    "npm_pct": [
+      {
+        "value": 49.29,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 50.86,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 40.55,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 43.29,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      }
+    ],
+    "cagr_sales_3yr": [
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": 35.78,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      }
+    ],
+    "cagr_np_3yr": [
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": 30.03,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      }
+    ],
+    "eps": [
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 9.89,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 12.3,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "EPS in ₹"
+      }
+    ],
+    "pe": [
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/IGIL.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Dec 2022"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/IGIL.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Dec 2023"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/IGIL.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Dec 2024"
+      },
+      {
+        "value": 30.8,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/IGIL.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Dec 2025"
+      }
+    ],
+    "roe_pct": [
+      {
+        "value": 71.3,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 63.8,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 40.21,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 37.76,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      }
+    ],
+    "roce_pct": [
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 99.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 68.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 54.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "ROCE%"
+      }
+    ],
+    "roa_pct": [
+      {
+        "value": 59.17,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 53.9,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 28.39,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 30.31,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      }
+    ],
+    "de_ratio": [
+      {
+        "value": 0.08,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.06,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.14,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.1,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      }
+    ],
+    "mc": [
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/IGIL.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Dec 2022"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/IGIL.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Dec 2023"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/IGIL.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Dec 2024"
+      },
+      {
+        "value": 163.15,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/IGIL.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Dec 2025"
+      }
+    ],
+    "ev": [
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/IGIL.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Dec 2022"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/IGIL.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Dec 2023"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/IGIL.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Dec 2024"
+      },
+      {
+        "value": 306.15,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/IGIL.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Dec 2025"
+      }
+    ],
+    "mc_ev": [
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/IGIL.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/IGIL.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/IGIL.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.53,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/IGIL.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      }
+    ],
+    "book_value": [
+      {
+        "value": 1697.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 2547.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 24.7,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 32.77,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      }
+    ],
+    "equity_capital": [
+      {
+        "value": 0.4,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 0.4,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 86.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 86.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      }
+    ],
+    "face_value": [
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Face Value in ₹"
+      }
+    ],
+    "dividend": [
+      {
+        "value": 0.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 0.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 25.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 0.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Dividend per share in ₹"
+      }
+    ],
+    "div_pct": [
+      {
+        "value": 0.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 0.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 1250.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 0.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      }
+    ],
+    "borrowings": [
+      {
+        "value": 27.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 31.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 145.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 143.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      }
+    ],
+    "cash": [
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      }
+    ],
+    "total_assets": [
+      {
+        "value": 409.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 603.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 1504.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 1755.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      }
+    ],
+    "shareholding": {
+      "Mar 2025": {
+        "fii": {
+          "value": 9.87,
+          "color": "green",
+          "source": "https://www.screener.in/company/IGIL/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 5.88,
+          "color": "green",
+          "source": "https://www.screener.in/company/IGIL/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 76.55,
+          "color": "green",
+          "source": "https://www.screener.in/company/IGIL/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 7.69,
+          "color": "green",
+          "source": "https://www.screener.in/company/IGIL/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      }
+    }
+  },
+  "quarterly": {
+    "quarters": [
+      "Dec 2023",
+      "Mar 2024",
+      "Jun 2024",
+      "Sep 2024",
+      "Dec 2024",
+      "Mar 2025",
+      "Jun 2025",
+      "Sep 2025",
+      "Dec 2025"
+    ],
+    "sales": [
+      {
+        "value": 250.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 278.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 260.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 250.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 265.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 305.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 301.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 304.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 320.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      }
+    ],
+    "net_profit": [
+      {
+        "value": 78.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 126.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 78.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 110.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 114.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 141.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 127.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 130.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 135.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      }
+    ],
+    "npm_pct": [
+      {
+        "value": 31.2,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 45.32,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 30.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 44.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 43.02,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 46.23,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 42.19,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 42.76,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 42.19,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/IGIL/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      }
+    ],
+    "shareholding": {
+      "Dec 2024": {
+        "fii": {
+          "value": 9.1,
+          "color": "green",
+          "source": "https://www.screener.in/company/IGIL/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 5.87,
+          "color": "green",
+          "source": "https://www.screener.in/company/IGIL/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 76.55,
+          "color": "green",
+          "source": "https://www.screener.in/company/IGIL/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 8.47,
+          "color": "green",
+          "source": "https://www.screener.in/company/IGIL/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Mar 2025": {
+        "fii": {
+          "value": 9.87,
+          "color": "green",
+          "source": "https://www.screener.in/company/IGIL/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 5.88,
+          "color": "green",
+          "source": "https://www.screener.in/company/IGIL/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 76.55,
+          "color": "green",
+          "source": "https://www.screener.in/company/IGIL/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 7.69,
+          "color": "green",
+          "source": "https://www.screener.in/company/IGIL/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Jun 2025": {
+        "fii": {
+          "value": 10.18,
+          "color": "green",
+          "source": "https://www.screener.in/company/IGIL/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 5.44,
+          "color": "green",
+          "source": "https://www.screener.in/company/IGIL/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 76.55,
+          "color": "green",
+          "source": "https://www.screener.in/company/IGIL/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 7.82,
+          "color": "green",
+          "source": "https://www.screener.in/company/IGIL/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Sep 2025": {
+        "fii": {
+          "value": 10.55,
+          "color": "green",
+          "source": "https://www.screener.in/company/IGIL/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 5.15,
+          "color": "green",
+          "source": "https://www.screener.in/company/IGIL/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 76.55,
+          "color": "green",
+          "source": "https://www.screener.in/company/IGIL/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 7.75,
+          "color": "green",
+          "source": "https://www.screener.in/company/IGIL/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Dec 2025": {
+        "fii": {
+          "value": 9.61,
+          "color": "green",
+          "source": "https://www.screener.in/company/IGIL/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 5.44,
+          "color": "green",
+          "source": "https://www.screener.in/company/IGIL/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 76.55,
+          "color": "green",
+          "source": "https://www.screener.in/company/IGIL/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 8.39,
+          "color": "green",
+          "source": "https://www.screener.in/company/IGIL/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      }
+    }
+  }
+}

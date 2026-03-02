@@ -14,6 +14,22 @@ python3 fetch_data.py CDSL
 python3 fetch_data.py INFY
 python3 fetch_data.py TCS
 python3 fetch_data.py PERSISTENT
+python3 fetch_data.py BSE
+python3 fetch_data.py CAMS
+python3 fetch_data.py COFORGE
+python3 fetch_data.py DIVISLAB
+python3 fetch_data.py FRACTAL
+python3 fetch_data.py GROWW
+python3 fetch_data.py IGIL
+python3 fetch_data.py KFINTECH
+python3 fetch_data.py KPITTECH
+python3 fetch_data.py MOTILALOFS
+python3 fetch_data.py NETWEB
+python3 fetch_data.py PGEL
+python3 fetch_data.py RELIANCE
+python3 fetch_data.py SETL
+python3 fetch_data.py TATAPOWER
+python3 fetch_data.py TATATECH
 
 echo ""
 echo "Starting local server..."

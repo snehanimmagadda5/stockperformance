@@ -1,0 +1,2437 @@
+{
+  "ticker": "COFORGE",
+  "last_updated": "2026-03-01 19:34",
+  "sources": {
+    "screener": "https://www.screener.in/company/COFORGE/consolidated/",
+    "trendlyne": "https://www.screener.in/company/COFORGE/consolidated/",
+    "prices": "https://finance.yahoo.com/quote/COFORGE.NS"
+  },
+  "annual": {
+    "years": [
+      "Mar 2014",
+      "Mar 2015",
+      "Mar 2016",
+      "Mar 2017",
+      "Mar 2018",
+      "Mar 2019",
+      "Mar 2020",
+      "Mar 2021",
+      "Mar 2022",
+      "Mar 2023",
+      "Mar 2024",
+      "Mar 2025",
+      "TTM"
+    ],
+    "sales": [
+      {
+        "value": 2305.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 2372.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 2688.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 2802.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 2991.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 3676.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 4184.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 4663.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 6432.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 8015.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 9009.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 12051.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 15272.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Sales in ₹Cr"
+      }
+    ],
+    "net_profit": [
+      {
+        "value": 238.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 122.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 287.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 272.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 309.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 422.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 468.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 466.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 715.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 745.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 836.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 936.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 1386.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      }
+    ],
+    "npm_pct": [
+      {
+        "value": 10.33,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 5.14,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 10.68,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 9.71,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 10.33,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 11.48,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 11.19,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 9.99,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 11.12,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 9.3,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 9.28,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 7.77,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 9.08,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      }
+    ],
+    "cagr_sales_3yr": [
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": 6.72,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 8.04,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 11.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 14.3,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 15.95,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 20.5,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 24.19,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 24.55,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 23.28,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 23.97,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      }
+    ],
+    "cagr_np_3yr": [
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": 4.55,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 36.31,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 13.71,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 19.83,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 14.68,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 19.22,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 16.76,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 21.51,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 9.39,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 22.99,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      }
+    ],
+    "eps": [
+      {
+        "value": 7.6,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 3.74,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 8.83,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 8.15,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 9.12,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 13.06,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 14.21,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 15.04,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 21.73,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 22.72,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 26.14,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 24.29,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 36.18,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "EPS in ₹"
+      }
+    ],
+    "pe": [
+      {
+        "value": 8.8,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2014"
+      },
+      {
+        "value": 15.9,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2015"
+      },
+      {
+        "value": 9.8,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2016"
+      },
+      {
+        "value": 9.5,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2017"
+      },
+      {
+        "value": 17.3,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2018"
+      },
+      {
+        "value": 18.7,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2019"
+      },
+      {
+        "value": 15.0,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2020"
+      },
+      {
+        "value": 36.5,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2021"
+      },
+      {
+        "value": 39.0,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2022"
+      },
+      {
+        "value": 32.4,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2023"
+      },
+      {
+        "value": 41.2,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2024"
+      },
+      {
+        "value": 66.1,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2025"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=TTM"
+      }
+    ],
+    "roe_pct": [
+      {
+        "value": 17.98,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 8.99,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 18.26,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 16.13,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 17.42,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 20.37,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 19.53,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 18.89,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 26.16,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 24.17,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 23.05,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 14.67,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 20.1,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      }
+    ],
+    "roce_pct": [
+      {
+        "value": 26.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 19.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 25.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 23.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 23.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 30.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 27.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 25.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 32.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 31.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 29.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 20.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "ROCE%"
+      }
+    ],
+    "roa_pct": [
+      {
+        "value": 13.21,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 6.17,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 12.56,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 11.3,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 11.78,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 14.89,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 13.76,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 13.38,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 14.66,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 13.24,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 13.79,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 7.63,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 10.2,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      }
+    ],
+    "de_ratio": [
+      {
+        "value": 0.01,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.01,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.01,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.01,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.01,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.01,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.01,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.03,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.18,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.18,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.2,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.17,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.14,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      }
+    ],
+    "mc": [
+      {
+        "value": 20.48,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2014"
+      },
+      {
+        "value": 18.15,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2015"
+      },
+      {
+        "value": 26.31,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2016"
+      },
+      {
+        "value": 23.58,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2017"
+      },
+      {
+        "value": 48.81,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2018"
+      },
+      {
+        "value": 75.68,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2019"
+      },
+      {
+        "value": 66.29,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2020"
+      },
+      {
+        "value": 167.61,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2021"
+      },
+      {
+        "value": 258.33,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2022"
+      },
+      {
+        "value": 224.28,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2023"
+      },
+      {
+        "value": 333.95,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2024"
+      },
+      {
+        "value": 538.26,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2025"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=TTM"
+      }
+    ],
+    "ev": [
+      {
+        "value": 29.48,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2014"
+      },
+      {
+        "value": 27.15,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2015"
+      },
+      {
+        "value": 36.31,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2016"
+      },
+      {
+        "value": 48.58,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2017"
+      },
+      {
+        "value": 70.81,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2018"
+      },
+      {
+        "value": 89.68,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2019"
+      },
+      {
+        "value": 101.29,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2020"
+      },
+      {
+        "value": 250.61,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2021"
+      },
+      {
+        "value": 748.33,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2022"
+      },
+      {
+        "value": 786.28,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2023"
+      },
+      {
+        "value": 1059.95,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2024"
+      },
+      {
+        "value": 1608.26,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2025"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=TTM"
+      }
+    ],
+    "mc_ev": [
+      {
+        "value": 0.69,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.67,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.72,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.49,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.69,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.84,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.65,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.67,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.35,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.29,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.32,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.33,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/COFORGE.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      }
+    ],
+    "book_value": [
+      {
+        "value": 43.41,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 44.49,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 51.54,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 55.28,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 57.23,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 66.84,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 77.29,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 80.89,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 89.61,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 101.05,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 117.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 190.42,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 205.82,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      }
+    ],
+    "equity_capital": [
+      {
+        "value": 61.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 61.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 61.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 61.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 62.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 62.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 62.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 61.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 61.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 61.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 62.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 67.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 67.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      }
+    ],
+    "face_value": [
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Face Value in ₹"
+      }
+    ],
+    "dividend": [
+      {
+        "value": 24.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 51.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 23.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 31.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 33.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 0.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 44.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 17.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 48.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 56.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 58.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 63.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Dividend per share in ₹"
+      }
+    ],
+    "div_pct": [
+      {
+        "value": 1200.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 2550.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 1150.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 1550.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 1650.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 0.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 2200.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 850.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 2400.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 2800.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 2900.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 3150.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": null,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      }
+    ],
+    "borrowings": [
+      {
+        "value": 9.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 9.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 10.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 25.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 22.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 14.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 35.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 83.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 490.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 562.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 726.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 1070.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 972.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      }
+    ],
+    "cash": [
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      }
+    ],
+    "total_assets": [
+      {
+        "value": 1801.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 1977.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 2285.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 2407.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 2624.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 2834.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 3400.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 3484.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 4878.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 5625.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 6061.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 12272.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 13590.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      }
+    ],
+    "shareholding": {
+      "Mar 2023": {
+        "fii": {
+          "value": 25.4,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 32.2,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 30.16,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 12.23,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Mar 2024": {
+        "fii": {
+          "value": 35.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 54.29,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 0.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 10.69,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Mar 2025": {
+        "fii": {
+          "value": 40.21,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 49.93,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 0.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 9.86,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      }
+    }
+  },
+  "quarterly": {
+    "quarters": [
+      "Dec 2022",
+      "Mar 2023",
+      "Jun 2023",
+      "Sep 2023",
+      "Dec 2023",
+      "Mar 2024",
+      "Jun 2024",
+      "Sep 2024",
+      "Dec 2024",
+      "Mar 2025",
+      "Jun 2025",
+      "Sep 2025",
+      "Dec 2025"
+    ],
+    "sales": [
+      {
+        "value": 2056.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 2170.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 2221.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 2276.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 2323.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 2318.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 2357.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 3026.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 3258.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 3410.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 3689.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 3986.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 4188.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      }
+    ],
+    "net_profit": [
+      {
+        "value": 236.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 117.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 176.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 188.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 243.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 229.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 139.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 234.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 256.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 307.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 356.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 425.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 297.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      }
+    ],
+    "npm_pct": [
+      {
+        "value": 11.48,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 5.39,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 7.92,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 8.26,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 10.46,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 9.88,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 5.9,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 7.73,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 7.86,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 9.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 9.65,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 10.66,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 7.09,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/COFORGE/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      }
+    ],
+    "shareholding": {
+      "Mar 2023": {
+        "fii": {
+          "value": 25.4,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 32.2,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 30.16,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 12.23,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Jun 2023": {
+        "fii": {
+          "value": 24.78,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 37.2,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 26.63,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 11.39,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Sep 2023": {
+        "fii": {
+          "value": 34.37,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 54.28,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 0.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 11.35,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Dec 2023": {
+        "fii": {
+          "value": 34.04,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 55.02,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 0.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 10.95,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Mar 2024": {
+        "fii": {
+          "value": 35.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 54.29,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 0.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 10.69,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Jun 2024": {
+        "fii": {
+          "value": 41.43,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 47.29,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 0.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 11.28,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Sep 2024": {
+        "fii": {
+          "value": 42.09,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 48.15,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 0.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 9.75,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Dec 2024": {
+        "fii": {
+          "value": 42.55,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 47.86,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 0.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 9.58,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Mar 2025": {
+        "fii": {
+          "value": 40.21,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 49.93,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 0.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 9.86,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Jun 2025": {
+        "fii": {
+          "value": 37.42,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 52.32,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 0.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 10.25,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Sep 2025": {
+        "fii": {
+          "value": 34.09,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 54.87,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 0.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 11.03,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Dec 2025": {
+        "fii": {
+          "value": 34.53,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 53.67,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 0.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 11.8,
+          "color": "green",
+          "source": "https://www.screener.in/company/COFORGE/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      }
+    }
+  }
+}

@@ -448,13 +448,13 @@
 <script>
 /* ═══════════════════════════════════════════
    PASSWORD PROTECTION
-   To change the password: edit DASHBOARD_PASSWORD below.
-   The SHA-256 hash is computed in the browser — the
-   plaintext password is never stored in this file.
+   To change the password:
+     1. Run: python3 -c "import hashlib; print(hashlib.sha256(b'NEWPASSWORD').hexdigest())"
+     2. Paste the result as PW_HASH_STORED below.
 ════════════════════════════════════════════ */
 
-// ── Change this value to set a new password ──
-const DASHBOARD_PASSWORD = "stocks2025";
+// ── SHA-256 hash of the dashboard password ──
+const PW_HASH_STORED = "67ed77f99bb47b142fec34ffe5a84f969c96561c60d8c8e938561e88062b19ea";
 // ─────────────────────────────────────────────
 
 async function sha256(str) {
@@ -462,10 +462,6 @@ async function sha256(str) {
   const hash = await crypto.subtle.digest("SHA-256", buf);
   return Array.from(new Uint8Array(hash)).map(b => b.toString(16).padStart(2, "0")).join("");
 }
-
-// Pre-compute the hash of the hardcoded password once on load
-let PW_HASH_STORED = "";
-sha256(DASHBOARD_PASSWORD).then(h => { PW_HASH_STORED = h; });
 
 document.getElementById("pw-btn").addEventListener("click", checkPassword);
 document.getElementById("pw-input").addEventListener("keydown", e => {

@@ -1,0 +1,2437 @@
+{
+  "ticker": "BSE",
+  "last_updated": "2026-03-01 19:34",
+  "sources": {
+    "screener": "https://www.screener.in/company/BSE/consolidated/",
+    "trendlyne": "https://www.screener.in/company/BSE/consolidated/",
+    "prices": "https://finance.yahoo.com/quote/BSE.NS"
+  },
+  "annual": {
+    "years": [
+      "Mar 2014",
+      "Mar 2015",
+      "Mar 2016",
+      "Mar 2017",
+      "Mar 2018",
+      "Mar 2019",
+      "Mar 2020",
+      "Mar 2021",
+      "Mar 2022",
+      "Mar 2023",
+      "Mar 2024",
+      "Mar 2025",
+      "TTM"
+    ],
+    "sales": [
+      {
+        "value": 485.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 584.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 635.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 572.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 676.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 652.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 609.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 630.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 841.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 925.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 1568.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 3212.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 4117.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Sales in ₹Cr"
+      }
+    ],
+    "net_profit": [
+      {
+        "value": 160.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 177.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 177.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 265.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 702.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 199.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 121.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 142.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 245.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 206.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 772.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 1322.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 2185.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      }
+    ],
+    "npm_pct": [
+      {
+        "value": 32.99,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 30.31,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 27.87,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 46.33,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 103.85,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 30.52,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 19.87,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 22.54,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 29.13,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 22.27,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 49.23,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 41.16,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 53.07,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      }
+    ],
+    "cagr_sales_3yr": [
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": 5.65,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 5.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 0.88,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 2.11,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": -2.32,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 8.86,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 14.95,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 35.52,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 56.31,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 64.49,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      }
+    ],
+    "cagr_np_3yr": [
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": 18.32,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 58.29,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 3.98,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": -23.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": -41.3,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 7.18,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 19.41,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 75.84,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 75.4,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 119.72,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      }
+    ],
+    "eps": [
+      {
+        "value": 1.45,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 1.66,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 1.38,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 4.57,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 14.22,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 4.27,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 3.02,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 3.58,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 6.27,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 5.43,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 19.17,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 32.65,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 53.96,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "EPS in ₹"
+      }
+    ],
+    "pe": [
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2014"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2015"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2016"
+      },
+      {
+        "value": 19.2,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2017"
+      },
+      {
+        "value": 4.9,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2018"
+      },
+      {
+        "value": 13.9,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2019"
+      },
+      {
+        "value": 9.9,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2020"
+      },
+      {
+        "value": 16.6,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2021"
+      },
+      {
+        "value": 47.9,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2022"
+      },
+      {
+        "value": 25.9,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2023"
+      },
+      {
+        "value": 43.4,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2024"
+      },
+      {
+        "value": 55.8,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2025"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=TTM"
+      }
+    ],
+    "roe_pct": [
+      {
+        "value": 6.73,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 7.2,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 7.02,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 9.95,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 22.78,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 6.8,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 4.99,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 5.66,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 9.23,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 7.63,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 23.38,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 29.88,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 41.94,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      }
+    ],
+    "roce_pct": [
+      {
+        "value": 10.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 10.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 10.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 10.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 25.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 8.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 5.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 8.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 15.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 12.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 23.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 47.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "ROCE%"
+      }
+    ],
+    "roa_pct": [
+      {
+        "value": 3.94,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 4.22,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 4.17,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 5.11,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 14.05,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 4.42,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 2.7,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 3.07,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 3.96,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 3.44,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 8.17,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 12.78,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 19.62,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      }
+    ],
+    "de_ratio": [
+      {
+        "value": 0.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      }
+    ],
+    "mc": [
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2014"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2015"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2016"
+      },
+      {
+        "value": 4.83,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2017"
+      },
+      {
+        "value": 3.85,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2018"
+      },
+      {
+        "value": 2.96,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2019"
+      },
+      {
+        "value": 1.35,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2020"
+      },
+      {
+        "value": 2.68,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2021"
+      },
+      {
+        "value": 40.57,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2022"
+      },
+      {
+        "value": 18.95,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2023"
+      },
+      {
+        "value": 112.24,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2024"
+      },
+      {
+        "value": 245.82,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2025"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=TTM"
+      }
+    ],
+    "ev": [
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2014"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2015"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2016"
+      },
+      {
+        "value": 7.83,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2017"
+      },
+      {
+        "value": 3.85,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2018"
+      },
+      {
+        "value": 2.96,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2019"
+      },
+      {
+        "value": 1.35,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2020"
+      },
+      {
+        "value": 2.68,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2021"
+      },
+      {
+        "value": 40.57,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2022"
+      },
+      {
+        "value": 18.95,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2023"
+      },
+      {
+        "value": 112.24,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2024"
+      },
+      {
+        "value": 245.82,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2025"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=TTM"
+      }
+    ],
+    "mc_ev": [
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.62,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 1.0,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 1.0,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 1.0,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 1.0,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 1.0,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 1.0,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 1.0,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 1.0,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/BSE.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      }
+    ],
+    "book_value": [
+      {
+        "value": 475.2,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 492.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 458.73,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 484.18,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 560.18,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 585.6,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 538.89,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 557.11,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 196.59,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 200.07,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 244.59,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 327.7,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 128.64,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      }
+    ],
+    "equity_capital": [
+      {
+        "value": 10.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 10.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 11.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 11.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 11.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 10.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 9.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 9.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 27.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 27.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 27.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 27.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 81.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      }
+    ],
+    "face_value": [
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Face Value in ₹"
+      }
+    ],
+    "dividend": [
+      {
+        "value": 31.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 33.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 61.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 68.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 28.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 78.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 63.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 65.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 72.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 74.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 26.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 23.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Dividend per share in ₹"
+      }
+    ],
+    "div_pct": [
+      {
+        "value": 1550.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 1650.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 3050.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 3400.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 1400.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 3900.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 3150.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 3250.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 3600.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 3700.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 1300.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 1150.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": null,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      }
+    ],
+    "borrowings": [
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 4.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 1.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 3.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 0.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 0.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 0.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 0.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 0.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 0.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 0.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 0.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 0.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      }
+    ],
+    "cash": [
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      }
+    ],
+    "total_assets": [
+      {
+        "value": 4066.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 4195.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 4240.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 5183.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 4998.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 4504.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 4476.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 4627.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 6185.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 5994.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 9450.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 10342.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 11138.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      }
+    ],
+    "shareholding": {
+      "Mar 2023": {
+        "fii": {
+          "value": 7.6,
+          "color": "green",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 0.65,
+          "color": "green",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": null,
+          "color": "red",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 65.88,
+          "color": "green",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Mar 2024": {
+        "fii": {
+          "value": 13.04,
+          "color": "green",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 12.69,
+          "color": "green",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": null,
+          "color": "red",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 51.91,
+          "color": "green",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Mar 2025": {
+        "fii": {
+          "value": 16.78,
+          "color": "green",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 12.33,
+          "color": "green",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": null,
+          "color": "red",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 48.78,
+          "color": "green",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      }
+    }
+  },
+  "quarterly": {
+    "quarters": [
+      "Dec 2022",
+      "Mar 2023",
+      "Jun 2023",
+      "Sep 2023",
+      "Dec 2023",
+      "Mar 2024",
+      "Jun 2024",
+      "Sep 2024",
+      "Dec 2024",
+      "Mar 2025",
+      "Jun 2025",
+      "Sep 2025",
+      "Dec 2025"
+    ],
+    "sales": [
+      {
+        "value": 239.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 259.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 260.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 362.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 426.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 539.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 602.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 813.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 768.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 847.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 958.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 1068.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 1244.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      }
+    ],
+    "net_profit": [
+      {
+        "value": 48.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 89.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 440.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 118.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 106.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 107.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 264.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 346.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 219.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 494.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 538.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 557.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 597.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      }
+    ],
+    "npm_pct": [
+      {
+        "value": 20.08,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 34.36,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 169.23,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 32.6,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 24.88,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 19.85,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 43.85,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 42.56,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 28.52,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 58.32,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 56.16,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 52.15,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 47.99,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/BSE/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      }
+    ],
+    "shareholding": {
+      "Mar 2023": {
+        "fii": {
+          "value": 7.6,
+          "color": "green",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 0.65,
+          "color": "green",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": null,
+          "color": "red",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 65.88,
+          "color": "green",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Jun 2023": {
+        "fii": {
+          "value": 8.77,
+          "color": "green",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 0.54,
+          "color": "green",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": null,
+          "color": "red",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 64.83,
+          "color": "green",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Sep 2023": {
+        "fii": {
+          "value": 7.9,
+          "color": "green",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 8.09,
+          "color": "green",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": null,
+          "color": "red",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 58.9,
+          "color": "green",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Dec 2023": {
+        "fii": {
+          "value": 12.03,
+          "color": "green",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 11.27,
+          "color": "green",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": null,
+          "color": "red",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 53.56,
+          "color": "green",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Mar 2024": {
+        "fii": {
+          "value": 13.04,
+          "color": "green",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 12.69,
+          "color": "green",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": null,
+          "color": "red",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 51.91,
+          "color": "green",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Jun 2024": {
+        "fii": {
+          "value": 11.12,
+          "color": "green",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 11.6,
+          "color": "green",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": null,
+          "color": "red",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 54.52,
+          "color": "green",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Sep 2024": {
+        "fii": {
+          "value": 13.01,
+          "color": "green",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 11.68,
+          "color": "green",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": null,
+          "color": "red",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 52.4,
+          "color": "green",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Dec 2024": {
+        "fii": {
+          "value": 16.03,
+          "color": "green",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 12.07,
+          "color": "green",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": null,
+          "color": "red",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 50.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Mar 2025": {
+        "fii": {
+          "value": 16.78,
+          "color": "green",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 12.33,
+          "color": "green",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": null,
+          "color": "red",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 48.78,
+          "color": "green",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Jun 2025": {
+        "fii": {
+          "value": 18.14,
+          "color": "green",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 11.27,
+          "color": "green",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": null,
+          "color": "red",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 50.01,
+          "color": "green",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Sep 2025": {
+        "fii": {
+          "value": 16.25,
+          "color": "green",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 19.91,
+          "color": "green",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": null,
+          "color": "red",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 63.76,
+          "color": "green",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Dec 2025": {
+        "fii": {
+          "value": 17.45,
+          "color": "green",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 23.74,
+          "color": "green",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": null,
+          "color": "red",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 58.73,
+          "color": "green",
+          "source": "https://www.screener.in/company/BSE/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      }
+    }
+  }
+}

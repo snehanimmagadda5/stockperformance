@@ -1,0 +1,2437 @@
+{
+  "ticker": "TATAPOWER",
+  "last_updated": "2026-03-01 19:35",
+  "sources": {
+    "screener": "https://www.screener.in/company/TATAPOWER/consolidated/",
+    "trendlyne": "https://www.screener.in/company/TATAPOWER/consolidated/",
+    "prices": "https://finance.yahoo.com/quote/TATAPOWER.NS"
+  },
+  "annual": {
+    "years": [
+      "Mar 2014",
+      "Mar 2015",
+      "Mar 2016",
+      "Mar 2017",
+      "Mar 2018",
+      "Mar 2019",
+      "Mar 2020",
+      "Mar 2021",
+      "Mar 2022",
+      "Mar 2023",
+      "Mar 2024",
+      "Mar 2025",
+      "TTM"
+    ],
+    "sales": [
+      {
+        "value": 35726.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 33593.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 29494.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 27588.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 26840.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 29881.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 29136.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 32703.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 42816.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 55109.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 61449.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 65478.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 64624.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Sales in ₹Cr"
+      }
+    ],
+    "net_profit": [
+      {
+        "value": 12.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 457.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 786.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 1100.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 2611.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 2606.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 1316.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 1439.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 2156.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 3810.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 4280.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 4775.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 5008.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      }
+    ],
+    "npm_pct": [
+      {
+        "value": 0.03,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 1.36,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 2.66,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 3.99,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 9.73,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 8.72,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 4.52,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 4.4,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 5.04,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 6.91,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 6.97,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 7.29,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 7.75,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      }
+    ],
+    "cagr_sales_3yr": [
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": -8.26,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": -7.21,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 0.44,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 1.84,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 6.81,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 12.74,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 23.67,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 23.4,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 15.21,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 5.45,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      }
+    ],
+    "cagr_np_3yr": [
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": 350.89,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 78.77,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 49.11,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 6.16,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": -18.01,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": -6.12,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 42.52,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 43.81,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 30.35,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 9.54,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      }
+    ],
+    "eps": [
+      {
+        "value": -0.96,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 0.62,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 2.45,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 3.31,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 8.9,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 8.71,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 3.76,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 3.53,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 5.45,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 10.44,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 11.57,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 12.43,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 11.88,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "EPS in ₹"
+      }
+    ],
+    "pe": [
+      {
+        "value": -74.7,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2014"
+      },
+      {
+        "value": 106.0,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2015"
+      },
+      {
+        "value": 22.9,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2016"
+      },
+      {
+        "value": 24.1,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2017"
+      },
+      {
+        "value": 8.0,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2018"
+      },
+      {
+        "value": 7.7,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2019"
+      },
+      {
+        "value": 8.1,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2020"
+      },
+      {
+        "value": 28.1,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2021"
+      },
+      {
+        "value": 42.6,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2022"
+      },
+      {
+        "value": 17.9,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2023"
+      },
+      {
+        "value": 33.7,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2024"
+      },
+      {
+        "value": 30.0,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2025"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=TTM"
+      }
+    ],
+    "roe_pct": [
+      {
+        "value": 0.1,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 3.19,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 6.76,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 8.32,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 15.92,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 14.24,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 6.73,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 6.45,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 9.61,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 13.23,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 13.23,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 13.32,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 13.29,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      }
+    ],
+    "roce_pct": [
+      {
+        "value": 8.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 9.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 5.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 9.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 6.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 7.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 8.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 8.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 9.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 12.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 11.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 11.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "ROCE%"
+      }
+    ],
+    "roa_pct": [
+      {
+        "value": 0.02,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 0.61,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 1.12,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 1.33,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 3.19,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 3.1,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 1.47,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 1.46,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 1.92,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 2.97,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 3.08,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 3.06,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 3.06,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      }
+    ],
+    "de_ratio": [
+      {
+        "value": 3.24,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 2.84,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 3.34,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 3.69,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 2.96,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 2.65,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 2.65,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 2.09,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 2.28,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 1.84,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 1.66,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 1.75,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 1.86,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      }
+    ],
+    "mc": [
+      {
+        "value": 169.91,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2014"
+      },
+      {
+        "value": 177.39,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2015"
+      },
+      {
+        "value": 151.34,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2016"
+      },
+      {
+        "value": 215.06,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2017"
+      },
+      {
+        "value": 191.24,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2018"
+      },
+      {
+        "value": 181.93,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2019"
+      },
+      {
+        "value": 82.54,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2020"
+      },
+      {
+        "value": 317.41,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2021"
+      },
+      {
+        "value": 742.78,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2022"
+      },
+      {
+        "value": 596.9,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2023"
+      },
+      {
+        "value": 1248.29,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2024"
+      },
+      {
+        "value": 1194.24,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2025"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=TTM"
+      }
+    ],
+    "ev": [
+      {
+        "value": 40342.91,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2014"
+      },
+      {
+        "value": 40784.39,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2015"
+      },
+      {
+        "value": 39000.34,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2016"
+      },
+      {
+        "value": 49030.06,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2017"
+      },
+      {
+        "value": 48780.24,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2018"
+      },
+      {
+        "value": 48687.93,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2019"
+      },
+      {
+        "value": 52018.54,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2020"
+      },
+      {
+        "value": 47025.41,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2021"
+      },
+      {
+        "value": 51937.78,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2022"
+      },
+      {
+        "value": 53519.9,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2023"
+      },
+      {
+        "value": 54937.29,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2024"
+      },
+      {
+        "value": 64060.24,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2025"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=TTM"
+      }
+    ],
+    "mc_ev": [
+      {
+        "value": 0.0,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.0,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.0,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.0,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.0,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.0,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.0,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.01,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.01,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.01,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.02,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.02,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/TATAPOWER.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      }
+    ],
+    "book_value": [
+      {
+        "value": 52.32,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 53.03,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 43.09,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 48.94,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 60.74,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 67.8,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 72.47,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 69.76,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 70.13,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 89.96,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 101.11,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 112.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 117.78,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      }
+    ],
+    "equity_capital": [
+      {
+        "value": 237.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 270.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 270.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 270.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 270.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 270.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 270.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 320.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 320.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 320.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 320.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 320.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 320.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      }
+    ],
+    "face_value": [
+      {
+        "value": 1.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 1.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 1.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 1.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 1.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 1.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 1.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 1.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 1.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 1.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 1.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 1.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 1.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Face Value in ₹"
+      }
+    ],
+    "dividend": [
+      {
+        "value": -114.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 210.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 53.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 39.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 15.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 15.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 41.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 44.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 32.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 19.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 17.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 20.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Dividend per share in ₹"
+      }
+    ],
+    "div_pct": [
+      {
+        "value": -11400.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 21000.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 5300.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 3900.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 1500.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 1500.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 4100.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 4400.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 3200.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 1900.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 1700.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 2000.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": null,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      }
+    ],
+    "borrowings": [
+      {
+        "value": 40173.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 40607.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 38849.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 48815.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 48589.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 48506.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 51936.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 46708.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 51195.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 52923.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 53689.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 62866.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 70083.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      }
+    ],
+    "cash": [
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      }
+    ],
+    "total_assets": [
+      {
+        "value": 71383.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 75185.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 70057.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 82829.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 81892.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 84073.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 89674.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 98655.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 112550.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 128096.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 139054.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 156193.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 163801.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      }
+    ],
+    "shareholding": {
+      "Mar 2023": {
+        "fii": {
+          "value": 9.45,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 14.16,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 46.86,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 29.21,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Mar 2024": {
+        "fii": {
+          "value": 9.44,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 15.47,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 46.86,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 27.91,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Mar 2025": {
+        "fii": {
+          "value": 9.38,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 15.87,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 46.86,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 27.57,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      }
+    }
+  },
+  "quarterly": {
+    "quarters": [
+      "Dec 2022",
+      "Mar 2023",
+      "Jun 2023",
+      "Sep 2023",
+      "Dec 2023",
+      "Mar 2024",
+      "Jun 2024",
+      "Sep 2024",
+      "Dec 2024",
+      "Mar 2025",
+      "Jun 2025",
+      "Sep 2025",
+      "Dec 2025"
+    ],
+    "sales": [
+      {
+        "value": 14129.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 12454.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 15213.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 15738.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 14651.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 15847.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 17294.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 15698.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 15391.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 17096.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 18035.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 15545.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 13948.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      }
+    ],
+    "net_profit": [
+      {
+        "value": 1052.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 939.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 1141.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 1017.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 1076.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 1046.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 1189.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 1093.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 1188.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 1306.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 1262.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 1245.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 1194.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      }
+    ],
+    "npm_pct": [
+      {
+        "value": 7.45,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 7.54,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 7.5,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 6.46,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 7.34,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 6.6,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 6.88,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 6.96,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 7.72,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 7.64,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 7.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 8.01,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 8.56,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      }
+    ],
+    "shareholding": {
+      "Mar 2023": {
+        "fii": {
+          "value": 9.45,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 14.16,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 46.86,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 29.21,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Jun 2023": {
+        "fii": {
+          "value": 9.75,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 14.59,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 46.86,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 28.48,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Sep 2023": {
+        "fii": {
+          "value": 10.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 15.68,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 46.86,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 27.15,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Dec 2023": {
+        "fii": {
+          "value": 9.85,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 16.11,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 46.86,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 26.87,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Mar 2024": {
+        "fii": {
+          "value": 9.44,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 15.47,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 46.86,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 27.91,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Jun 2024": {
+        "fii": {
+          "value": 9.5,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 15.49,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 46.86,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 27.81,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Sep 2024": {
+        "fii": {
+          "value": 9.15,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 16.63,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 46.86,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 27.02,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Dec 2024": {
+        "fii": {
+          "value": 9.45,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 15.71,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 46.86,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 27.66,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Mar 2025": {
+        "fii": {
+          "value": 9.38,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 15.87,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 46.86,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 27.57,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Jun 2025": {
+        "fii": {
+          "value": 10.05,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 15.95,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 46.86,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 26.82,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Sep 2025": {
+        "fii": {
+          "value": 10.19,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 16.34,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 46.86,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 26.29,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Dec 2025": {
+        "fii": {
+          "value": 10.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 17.2,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 46.86,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 25.6,
+          "color": "green",
+          "source": "https://www.screener.in/company/TATAPOWER/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      }
+    }
+  }
+}

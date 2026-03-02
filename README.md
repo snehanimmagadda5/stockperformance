@@ -96,7 +96,7 @@ The JSON file is created automatically. On GitHub Pages, the dashboard will list
 1. Open `index.html` in a text editor.
 2. Find this line near the top of the `<script>` section:
    ```js
-   const DASHBOARD_PASSWORD = "stocks2025";
+   const DASHBOARD_PASSWORD = "your-new-password";
    ```
 3. Replace `stocks2025` with your new password.
 4. Save and push to GitHub.

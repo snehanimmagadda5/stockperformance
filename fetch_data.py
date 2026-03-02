@@ -97,7 +97,7 @@ def cagr(start, end, years):
     """Compute CAGR given start value, end value, and number of years."""
     if start is None or end is None or years <= 0:
         return None
-    if start <= 0:
+    if start <= 0 or end <= 0:
         return None
     return (end / start) ** (1 / years) - 1
 
@@ -203,12 +203,15 @@ def extract_screener_table(soup, table_id):
 # Section 1 — Annual data from screener.in
 # ─────────────────────────────────────────────
 
-SCREENER_BASE = "https://www.screener.in/company/{ticker}/consolidated/"
+SCREENER_BASE            = "https://www.screener.in/company/{ticker}/consolidated/"
+SCREENER_BASE_STANDALONE = "https://www.screener.in/company/{ticker}/"
 
 
 def scrape_screener_annual(ticker):
     """
     Fetch the consolidated screener.in page for <ticker>.
+    Falls back to the standalone page if consolidated has no P&L data
+    (some companies, e.g. NETWEB, only publish standalone financials).
     Returns a dict keyed by metric name, each value being a list of
     { fy_label: str, raw_value: float } dicts — one per fiscal year column.
 
@@ -265,6 +268,16 @@ def scrape_screener_annual(ticker):
 
     # ── Pull P&L table ───────────────────────────────────────────────────
     pl_years, pl_rows = extract_table("profit-loss")
+
+    # If consolidated page has no P&L years, fall back to standalone
+    if not pl_years:
+        standalone_url = SCREENER_BASE_STANDALONE.format(ticker=ticker)
+        print(f"  No consolidated P&L data — trying standalone: {standalone_url}")
+        r2 = fetch_url(standalone_url)
+        if r2 is not None:
+            url = standalone_url
+            soup = BeautifulSoup(r2.text, "lxml")
+            pl_years, pl_rows = extract_table("profit-loss")
 
     # ── Pull Balance Sheet table ─────────────────────────────────────────
     bs_years, bs_rows = extract_table("balance-sheet")
@@ -738,8 +751,15 @@ def scrape_quarterly_pl(ticker):
 
     soup = BeautifulSoup(r.text, "lxml")
 
-    # The quarterly results section has id="quarters"
+    # If consolidated page has no quarters section, fall back to standalone
     q_section = soup.find("section", {"id": "quarters"})
+    if q_section is None:
+        standalone_url = SCREENER_BASE_STANDALONE.format(ticker=ticker)
+        r2 = fetch_url(standalone_url)
+        if r2 is not None:
+            soup = BeautifulSoup(r2.text, "lxml")
+            q_section = soup.find("section", {"id": "quarters"})
+
     if q_section is None:
         print("  No quarterly section found on screener.in.")
         return [], [], [], []

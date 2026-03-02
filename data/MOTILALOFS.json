@@ -1,0 +1,2437 @@
+{
+  "ticker": "MOTILALOFS",
+  "last_updated": "2026-03-01 19:34",
+  "sources": {
+    "screener": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+    "trendlyne": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+    "prices": "https://finance.yahoo.com/quote/MOTILALOFS.NS"
+  },
+  "annual": {
+    "years": [
+      "Mar 2014",
+      "Mar 2015",
+      "Mar 2016",
+      "Mar 2017",
+      "Mar 2018",
+      "Mar 2019",
+      "Mar 2020",
+      "Mar 2021",
+      "Mar 2022",
+      "Mar 2023",
+      "Mar 2024",
+      "Mar 2025",
+      "TTM"
+    ],
+    "sales": [
+      {
+        "value": 467.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 772.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 1080.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 1923.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 2751.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 2450.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 2358.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 3626.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 4298.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 4178.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 7106.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 8340.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 7888.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Sales in ₹Cr"
+      }
+    ],
+    "net_profit": [
+      {
+        "value": 42.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 145.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 172.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 371.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 632.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 298.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 190.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 1265.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 1312.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 935.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 2446.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 2508.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 2028.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      }
+    ],
+    "npm_pct": [
+      {
+        "value": 8.99,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 18.78,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 15.93,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 19.29,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 22.97,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 12.16,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 8.06,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 34.89,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 30.53,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 22.38,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 34.42,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 30.07,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 25.71,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      }
+    ],
+    "cagr_sales_3yr": [
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": 60.28,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 52.74,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 31.4,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 7.03,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 9.64,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 20.61,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 21.01,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 25.14,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 24.73,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 23.59,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      }
+    ],
+    "cagr_np_3yr": [
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": 106.72,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 63.35,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 20.11,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": -19.99,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 26.03,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 63.9,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 70.09,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 24.58,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 24.11,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 29.45,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      }
+    ],
+    "eps": [
+      {
+        "value": 0.72,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 2.56,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 2.97,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 6.23,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 10.72,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 5.04,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 3.1,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 21.49,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 21.97,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 15.74,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 40.96,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 41.74,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 33.76,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "EPS in ₹"
+      }
+    ],
+    "pe": [
+      {
+        "value": 122.3,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2014"
+      },
+      {
+        "value": 105.7,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2015"
+      },
+      {
+        "value": 88.1,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2016"
+      },
+      {
+        "value": 111.9,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2017"
+      },
+      {
+        "value": 89.8,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2018"
+      },
+      {
+        "value": 115.1,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2019"
+      },
+      {
+        "value": 155.0,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2020"
+      },
+      {
+        "value": 28.2,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2021"
+      },
+      {
+        "value": 38.5,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2022"
+      },
+      {
+        "value": 37.8,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2023"
+      },
+      {
+        "value": 10.0,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2024"
+      },
+      {
+        "value": 14.6,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2025"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=TTM"
+      }
+    ],
+    "roe_pct": [
+      {
+        "value": 3.59,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 11.2,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 11.98,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 20.77,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 21.9,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 9.76,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 6.16,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 28.35,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 23.12,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 14.96,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 28.01,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 22.64,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 15.76,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      }
+    ],
+    "roce_pct": [
+      {
+        "value": 10.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 14.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 13.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 18.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 18.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 11.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 10.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 22.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 19.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 13.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 21.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 19.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "ROCE%"
+      }
+    ],
+    "roa_pct": [
+      {
+        "value": 2.27,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 4.92,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 3.38,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 4.4,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 6.07,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 2.88,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 1.88,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 9.01,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 7.78,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 4.07,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 7.7,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 7.39,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 5.69,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      }
+    ],
+    "de_ratio": [
+      {
+        "value": 0.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.61,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 1.8,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 2.84,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 1.84,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 1.69,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 1.5,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 1.28,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 1.08,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 1.64,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 1.58,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 1.33,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 1.22,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      }
+    ],
+    "mc": [
+      {
+        "value": 12.33,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2014"
+      },
+      {
+        "value": 37.87,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2015"
+      },
+      {
+        "value": 36.62,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2016"
+      },
+      {
+        "value": 97.57,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2017"
+      },
+      {
+        "value": 144.47,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2018"
+      },
+      {
+        "value": 87.04,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2019"
+      },
+      {
+        "value": 72.09,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2020"
+      },
+      {
+        "value": 90.81,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2021"
+      },
+      {
+        "value": 126.84,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2022"
+      },
+      {
+        "value": 89.3,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2023"
+      },
+      {
+        "value": 61.52,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2024"
+      },
+      {
+        "value": 366.25,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2025"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=TTM"
+      }
+    ],
+    "ev": [
+      {
+        "value": 12.33,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2014"
+      },
+      {
+        "value": 832.87,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2015"
+      },
+      {
+        "value": 2625.62,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2016"
+      },
+      {
+        "value": 5164.57,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2017"
+      },
+      {
+        "value": 5467.47,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2018"
+      },
+      {
+        "value": 5245.04,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2019"
+      },
+      {
+        "value": 4699.09,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2020"
+      },
+      {
+        "value": 5783.81,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2021"
+      },
+      {
+        "value": 6278.84,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2022"
+      },
+      {
+        "value": 10367.3,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2023"
+      },
+      {
+        "value": 13848.52,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2024"
+      },
+      {
+        "value": 15140.25,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2025"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=TTM"
+      }
+    ],
+    "mc_ev": [
+      {
+        "value": 1.0,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.05,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.01,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.02,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.03,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.02,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.02,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.02,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.02,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.01,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.0,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.02,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/MOTILALOFS.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      }
+    ],
+    "book_value": [
+      {
+        "value": 83.57,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 92.5,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 102.57,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 127.57,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 192.4,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 203.6,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 205.73,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 297.47,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 378.27,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 416.8,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 582.13,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 184.65,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 214.52,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      }
+    ],
+    "equity_capital": [
+      {
+        "value": 14.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 14.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 14.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 14.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 15.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 15.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 15.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 15.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 15.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 15.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 15.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 60.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 60.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      }
+    ],
+    "face_value": [
+      {
+        "value": 1.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 1.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 1.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 1.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 1.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 1.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 1.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 1.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 1.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 1.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 1.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 1.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 1.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Face Value in ₹"
+      }
+    ],
+    "dividend": [
+      {
+        "value": 70.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 29.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 29.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 22.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 20.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 42.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 32.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 12.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 11.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 16.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 9.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 12.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Dividend per share in ₹"
+      }
+    ],
+    "div_pct": [
+      {
+        "value": 7000.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 2900.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 2900.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 2200.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 2000.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 4200.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 3200.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 1200.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 1100.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 1600.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 900.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 1200.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": null,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      }
+    ],
+    "borrowings": [
+      {
+        "value": 0.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 795.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 2589.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 5067.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 5323.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 5158.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 4627.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 5693.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 6152.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 10278.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 13787.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 14774.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 15696.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      }
+    ],
+    "cash": [
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      }
+    ],
+    "total_assets": [
+      {
+        "value": 1848.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 2945.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 5090.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 8439.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 10411.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 10360.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 10084.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 14041.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 16860.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 22949.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 31771.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 33916.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 35627.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      }
+    ],
+    "shareholding": {
+      "Mar 2023": {
+        "fii": {
+          "value": 6.47,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 6.28,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 69.68,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 17.58,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Mar 2024": {
+        "fii": {
+          "value": 6.73,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 6.94,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 69.16,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 17.16,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Mar 2025": {
+        "fii": {
+          "value": 6.01,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 5.71,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 68.45,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 19.83,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      }
+    }
+  },
+  "quarterly": {
+    "quarters": [
+      "Dec 2022",
+      "Mar 2023",
+      "Jun 2023",
+      "Sep 2023",
+      "Dec 2023",
+      "Mar 2024",
+      "Jun 2024",
+      "Sep 2024",
+      "Dec 2024",
+      "Mar 2025",
+      "Jun 2025",
+      "Sep 2025",
+      "Dec 2025"
+    ],
+    "sales": [
+      {
+        "value": 1076.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 1027.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 1502.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 1655.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 1791.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 2154.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 2314.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 2841.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 1993.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 1190.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 2737.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 1849.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 2112.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      }
+    ],
+    "net_profit": [
+      {
+        "value": 227.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 165.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 528.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 532.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 661.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 725.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 884.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 1122.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 566.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": -63.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 1163.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 363.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 566.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      }
+    ],
+    "npm_pct": [
+      {
+        "value": 21.1,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 16.07,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 35.15,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 32.15,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 36.91,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 33.66,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 38.2,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 39.49,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 28.4,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": -5.29,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 42.49,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 19.63,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 26.8,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      }
+    ],
+    "shareholding": {
+      "Mar 2023": {
+        "fii": {
+          "value": 6.47,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 6.28,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 69.68,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 17.58,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Jun 2023": {
+        "fii": {
+          "value": 6.41,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 6.11,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 69.66,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 17.84,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Sep 2023": {
+        "fii": {
+          "value": 6.29,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 6.29,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 69.53,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 17.9,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Dec 2023": {
+        "fii": {
+          "value": 6.48,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 6.76,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 69.39,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 17.36,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Mar 2024": {
+        "fii": {
+          "value": 6.73,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 6.94,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 69.16,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 17.16,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Jun 2024": {
+        "fii": {
+          "value": 6.46,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 6.06,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 69.04,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 18.42,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Sep 2024": {
+        "fii": {
+          "value": 6.34,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 6.41,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 68.86,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 18.39,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Dec 2024": {
+        "fii": {
+          "value": 5.88,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 6.39,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 68.71,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 19.01,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Mar 2025": {
+        "fii": {
+          "value": 6.01,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 5.71,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 68.45,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 19.83,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Jun 2025": {
+        "fii": {
+          "value": 7.29,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 5.44,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 67.8,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 19.46,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Sep 2025": {
+        "fii": {
+          "value": 7.52,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 5.84,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 67.69,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 18.96,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Dec 2025": {
+        "fii": {
+          "value": 6.93,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 6.42,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 67.62,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 19.02,
+          "color": "green",
+          "source": "https://www.screener.in/company/MOTILALOFS/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      }
+    }
+  }
+}

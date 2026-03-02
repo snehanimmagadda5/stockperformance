@@ -1,0 +1,1905 @@
+{
+  "ticker": "PGEL",
+  "last_updated": "2026-03-01 19:34",
+  "sources": {
+    "screener": "https://www.screener.in/company/PGEL/consolidated/",
+    "trendlyne": "https://www.screener.in/company/PGEL/consolidated/",
+    "prices": "https://finance.yahoo.com/quote/PGEL.NS"
+  },
+  "annual": {
+    "years": [
+      "Mar 2011",
+      "Mar 2012",
+      "Mar 2013",
+      "Mar 2021",
+      "Mar 2022",
+      "Mar 2023",
+      "Mar 2024",
+      "Mar 2025",
+      "TTM"
+    ],
+    "sales": [
+      {
+        "value": 424.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 222.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 303.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 703.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 1112.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 2160.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 2746.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 4870.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 5481.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Sales in ₹Cr"
+      }
+    ],
+    "net_profit": [
+      {
+        "value": 18.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": -9.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": -5.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 12.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 37.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 77.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 135.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 288.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 277.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      }
+    ],
+    "npm_pct": [
+      {
+        "value": 4.25,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": -4.05,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": -1.65,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 1.71,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 3.33,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 3.56,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 4.92,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 5.91,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 5.05,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      }
+    ],
+    "cagr_sales_3yr": [
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": 18.36,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 71.1,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 92.46,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 57.49,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 63.61,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 36.4,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      }
+    ],
+    "cagr_np_3yr": [
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": -12.64,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "N/A (negative base)"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "N/A (negative base)"
+      },
+      {
+        "value": 124.07,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 98.18,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 53.23,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      }
+    ],
+    "eps": [
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": -0.53,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": -0.3,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 0.59,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 1.74,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 3.41,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 5.18,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 10.17,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 9.76,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "EPS in ₹"
+      }
+    ],
+    "pe": [
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PGEL.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2011"
+      },
+      {
+        "value": -38.1,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PGEL.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2012"
+      },
+      {
+        "value": -27.4,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PGEL.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2013"
+      },
+      {
+        "value": 68.9,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PGEL.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2021"
+      },
+      {
+        "value": 42.0,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PGEL.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2022"
+      },
+      {
+        "value": 39.0,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PGEL.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2023"
+      },
+      {
+        "value": 32.1,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PGEL.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2024"
+      },
+      {
+        "value": 90.1,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PGEL.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2025"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PGEL.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=TTM"
+      }
+    ],
+    "roe_pct": [
+      {
+        "value": 39.13,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": -6.12,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": -3.52,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 6.22,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 11.86,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 19.44,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 13.01,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 10.18,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 9.55,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      }
+    ],
+    "roce_pct": [
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 1.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 1.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 13.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 17.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 19.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 19.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "ROCE%"
+      }
+    ],
+    "roa_pct": [
+      {
+        "value": 11.25,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": -3.12,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": -1.74,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 2.07,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 3.46,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 5.1,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 5.84,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 5.62,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 5.94,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      }
+    ],
+    "de_ratio": [
+      {
+        "value": 1.48,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.53,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.56,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.96,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 1.28,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 1.46,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.42,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.14,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.2,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      }
+    ],
+    "mc": [
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PGEL.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2011"
+      },
+      {
+        "value": 3.23,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PGEL.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2012"
+      },
+      {
+        "value": 1.31,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PGEL.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2013"
+      },
+      {
+        "value": 8.13,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PGEL.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2021"
+      },
+      {
+        "value": 15.34,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PGEL.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2022"
+      },
+      {
+        "value": 30.62,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PGEL.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2023"
+      },
+      {
+        "value": 43.18,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PGEL.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2024"
+      },
+      {
+        "value": 256.54,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PGEL.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2025"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PGEL.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=TTM"
+      }
+    ],
+    "ev": [
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PGEL.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2011"
+      },
+      {
+        "value": 81.23,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PGEL.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2012"
+      },
+      {
+        "value": 81.31,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PGEL.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2013"
+      },
+      {
+        "value": 193.13,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PGEL.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2021"
+      },
+      {
+        "value": 414.34,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PGEL.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2022"
+      },
+      {
+        "value": 607.62,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PGEL.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2023"
+      },
+      {
+        "value": 478.18,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PGEL.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2024"
+      },
+      {
+        "value": 640.54,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PGEL.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2025"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PGEL.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=TTM"
+      }
+    ],
+    "mc_ev": [
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PGEL.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.04,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PGEL.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.02,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PGEL.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.04,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PGEL.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.04,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PGEL.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.05,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PGEL.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.09,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PGEL.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.4,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PGEL.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/PGEL.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      }
+    ],
+    "book_value": [
+      {
+        "value": 4.18,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 9.19,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 8.88,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 9.65,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 14.86,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 17.22,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 39.92,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 101.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 103.64,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      }
+    ],
+    "equity_capital": [
+      {
+        "value": 11.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 16.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 16.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 20.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 21.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 23.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 26.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 28.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 28.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      }
+    ],
+    "face_value": [
+      {
+        "value": 1.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 1.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 1.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 1.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 1.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 1.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 1.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 1.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 1.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Face Value in ₹"
+      }
+    ],
+    "dividend": [
+      {
+        "value": 0.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 0.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 0.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 0.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 0.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 0.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 4.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Dividend per share in ₹"
+      }
+    ],
+    "div_pct": [
+      {
+        "value": 0.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 0.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 0.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 0.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 0.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 0.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 400.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 200.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": null,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      }
+    ],
+    "borrowings": [
+      {
+        "value": 68.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 78.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 80.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 185.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 399.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 577.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 435.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 384.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 590.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      }
+    ],
+    "cash": [
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      }
+    ],
+    "total_assets": [
+      {
+        "value": 160.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 288.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 288.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 580.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 1069.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 1509.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 2310.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 5123.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 4665.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      }
+    ],
+    "shareholding": {
+      "Mar 2023": {
+        "fii": {
+          "value": 1.97,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 7.17,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 61.33,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 29.53,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Mar 2024": {
+        "fii": {
+          "value": 11.02,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 10.94,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 53.7,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 24.33,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Mar 2025": {
+        "fii": {
+          "value": 10.45,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 16.37,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 49.37,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 23.8,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      }
+    }
+  },
+  "quarterly": {
+    "quarters": [
+      "Dec 2022",
+      "Mar 2023",
+      "Jun 2023",
+      "Sep 2023",
+      "Dec 2023",
+      "Mar 2024",
+      "Jun 2024",
+      "Sep 2024",
+      "Dec 2024",
+      "Mar 2025",
+      "Jun 2025",
+      "Sep 2025",
+      "Dec 2025"
+    ],
+    "sales": [
+      {
+        "value": 459.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 828.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 678.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 460.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 532.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 1077.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 1321.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 671.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 968.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 1910.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 1504.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 655.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 1412.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      }
+    ],
+    "net_profit": [
+      {
+        "value": 14.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 40.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 34.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 12.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 19.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 70.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 84.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 19.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 40.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 145.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 67.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 3.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 62.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      }
+    ],
+    "npm_pct": [
+      {
+        "value": 3.05,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 4.83,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 5.01,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 2.61,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 3.57,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 6.5,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 6.36,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 2.83,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 4.13,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 7.59,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 4.45,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 0.46,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 4.39,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/PGEL/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      }
+    ],
+    "shareholding": {
+      "Mar 2023": {
+        "fii": {
+          "value": 1.97,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 7.17,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 61.33,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 29.53,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Jun 2023": {
+        "fii": {
+          "value": 3.13,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 7.13,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 61.2,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 28.32,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Sep 2023": {
+        "fii": {
+          "value": 8.96,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 12.63,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 53.59,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 24.62,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Dec 2023": {
+        "fii": {
+          "value": 10.77,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 12.36,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 53.59,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 23.27,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Mar 2024": {
+        "fii": {
+          "value": 11.02,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 10.94,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 53.7,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 24.33,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Jun 2024": {
+        "fii": {
+          "value": 11.07,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 9.89,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 53.56,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 25.22,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Sep 2024": {
+        "fii": {
+          "value": 10.69,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 9.8,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 53.42,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 25.91,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Dec 2024": {
+        "fii": {
+          "value": 10.29,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 16.22,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 49.37,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 24.11,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Mar 2025": {
+        "fii": {
+          "value": 10.45,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 16.37,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 49.37,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 23.8,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Jun 2025": {
+        "fii": {
+          "value": 13.02,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 18.09,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 43.72,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 25.11,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Sep 2025": {
+        "fii": {
+          "value": 11.45,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 18.83,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 43.6,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 26.1,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Dec 2025": {
+        "fii": {
+          "value": 10.59,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 22.66,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 43.41,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 23.06,
+          "color": "green",
+          "source": "https://www.screener.in/company/PGEL/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1905 @@
+{
+  "ticker": "CAMS",
+  "last_updated": "2026-03-01 19:34",
+  "sources": {
+    "screener": "https://www.screener.in/company/CAMS/consolidated/",
+    "trendlyne": "https://www.screener.in/company/CAMS/consolidated/",
+    "prices": "https://finance.yahoo.com/quote/CAMS.NS"
+  },
+  "annual": {
+    "years": [
+      "Mar 2018",
+      "Mar 2019",
+      "Mar 2020",
+      "Mar 2021",
+      "Mar 2022",
+      "Mar 2023",
+      "Mar 2024",
+      "Mar 2025",
+      "TTM"
+    ],
+    "sales": [
+      {
+        "value": 659.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 711.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 700.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 706.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 910.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 972.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 1137.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 1422.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Sales in ₹Cr"
+      },
+      {
+        "value": 1477.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Sales in ₹Cr"
+      }
+    ],
+    "net_profit": [
+      {
+        "value": 146.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 131.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 172.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 205.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 287.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 285.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 351.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 465.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      },
+      {
+        "value": 459.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Net Profit in ₹Cr"
+      }
+    ],
+    "npm_pct": [
+      {
+        "value": 22.15,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 18.42,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 24.57,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 29.04,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 31.54,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 29.32,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 30.87,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 32.7,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 31.08,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "NPM% = Net Profit / Sales × 100"
+      }
+    ],
+    "cagr_sales_3yr": [
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": 2.32,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 8.57,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 11.56,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 17.22,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 16.04,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 14.97,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
+      }
+    ],
+    "cagr_np_3yr": [
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "",
+        "note": "Need 3 prior years"
+      },
+      {
+        "value": 11.98,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 29.88,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 18.33,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 19.63,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 17.45,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      },
+      {
+        "value": 17.22,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "3yr CAGR NP = (NP_t / NP_{t-3})^(1/3) - 1"
+      }
+    ],
+    "eps": [
+      {
+        "value": 5.99,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 5.35,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 7.05,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 8.41,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 11.74,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 11.64,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 14.39,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 19.03,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "EPS in ₹"
+      },
+      {
+        "value": 18.73,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "EPS in ₹"
+      }
+    ],
+    "pe": [
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CAMS.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2018"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CAMS.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2019"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CAMS.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2020"
+      },
+      {
+        "value": 40.6,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CAMS.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2021"
+      },
+      {
+        "value": 36.9,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CAMS.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2022"
+      },
+      {
+        "value": 33.2,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CAMS.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2023"
+      },
+      {
+        "value": 39.2,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CAMS.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2024"
+      },
+      {
+        "value": 38.5,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CAMS.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=Mar 2025"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CAMS.NS",
+        "note": "PE = Year-end price / EPS; Year-end price (Mar closing) from trendlyne; year=TTM"
+      }
+    ],
+    "roe_pct": [
+      {
+        "value": 32.88,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 29.64,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 31.33,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 39.73,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 44.29,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 36.45,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 38.4,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 41.59,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      },
+      {
+        "value": 37.72,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "ROE% = Net Profit / (Equity Capital + Reserves) × 100"
+      }
+    ],
+    "roce_pct": [
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 38.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 44.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 42.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 56.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 46.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 48.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": 54.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "ROCE%"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "ROCE%"
+      }
+    ],
+    "roa_pct": [
+      {
+        "value": 20.92,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 17.8,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 21.47,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 24.35,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 29.99,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 26.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 24.84,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 29.14,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      },
+      {
+        "value": 26.59,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "RoA% = Net Profit / Total Assets × 100"
+      }
+    ],
+    "de_ratio": [
+      {
+        "value": 0.25,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.25,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.15,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.13,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.12,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.11,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.08,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      },
+      {
+        "value": 0.06,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "D/E = Total Borrowings / (Equity Capital + Reserves)"
+      }
+    ],
+    "mc": [
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CAMS.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2018"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CAMS.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2019"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CAMS.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2020"
+      },
+      {
+        "value": 83.63,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CAMS.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2021"
+      },
+      {
+        "value": 106.27,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CAMS.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2022"
+      },
+      {
+        "value": 94.74,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CAMS.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2023"
+      },
+      {
+        "value": 138.19,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CAMS.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2024"
+      },
+      {
+        "value": 179.51,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CAMS.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=Mar 2025"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CAMS.NS",
+        "note": "MC = Year-end price × Shares outstanding (in ₹Cr); Year-end price (Mar closing) from trendlyne; year=TTM"
+      }
+    ],
+    "ev": [
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CAMS.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2018"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CAMS.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2019"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CAMS.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2020"
+      },
+      {
+        "value": 162.63,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CAMS.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2021"
+      },
+      {
+        "value": 188.27,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CAMS.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2022"
+      },
+      {
+        "value": 187.74,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CAMS.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2023"
+      },
+      {
+        "value": 234.19,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CAMS.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2024"
+      },
+      {
+        "value": 268.51,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CAMS.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=Mar 2025"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CAMS.NS",
+        "note": "EV = MC + Total Borrowings - Cash; Year-end price (Mar closing) from trendlyne; year=TTM"
+      }
+    ],
+    "mc_ev": [
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CAMS.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CAMS.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CAMS.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.51,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CAMS.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.56,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CAMS.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.5,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CAMS.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.59,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CAMS.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": 0.67,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CAMS.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      },
+      {
+        "value": null,
+        "color": "orange",
+        "source": "https://finance.yahoo.com/quote/CAMS.NS",
+        "note": "MC/EV = Market Cap / Enterprise Value"
+      }
+    ],
+    "book_value": [
+      {
+        "value": 18.12,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 18.04,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 22.41,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 21.06,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 26.45,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 31.92,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 37.31,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 45.63,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      },
+      {
+        "value": 48.68,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "BV = (Equity Capital + Reserves) × Face Value / Equity Capital"
+      }
+    ],
+    "equity_capital": [
+      {
+        "value": 49.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 49.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 49.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 49.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 49.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 49.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 49.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 49.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      },
+      {
+        "value": 50.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Equity Capital in ₹Cr"
+      }
+    ],
+    "face_value": [
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Face Value in ₹"
+      },
+      {
+        "value": 2.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Face Value in ₹"
+      }
+    ],
+    "dividend": [
+      {
+        "value": 66.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 84.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 35.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 150.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 66.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 65.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 65.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": 76.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Dividend per share in ₹"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Dividend per share in ₹"
+      }
+    ],
+    "div_pct": [
+      {
+        "value": 3300.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 4200.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 1750.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 7500.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 3300.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 3250.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 3250.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": 3800.0,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      },
+      {
+        "value": null,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Div% = (Dividend per share / Face Value) × 100"
+      }
+    ],
+    "borrowings": [
+      {
+        "value": 112.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 109.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 0.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 79.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 82.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 93.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 96.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 89.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      },
+      {
+        "value": 78.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Total Borrowings in ₹Cr"
+      }
+    ],
+    "cash": [
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      },
+      {
+        "value": null,
+        "color": "red",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Cash & Equivalents in ₹Cr"
+      }
+    ],
+    "total_assets": [
+      {
+        "value": 698.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 736.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 801.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 842.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 957.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 1096.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 1413.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 1596.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      },
+      {
+        "value": 1726.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Total Assets in ₹Cr"
+      }
+    ],
+    "shareholding": {
+      "Mar 2023": {
+        "fii": {
+          "value": 35.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 12.87,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 19.92,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 32.21,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Mar 2024": {
+        "fii": {
+          "value": 53.78,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 19.91,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 0.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 26.32,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Mar 2025": {
+        "fii": {
+          "value": 55.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 16.7,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 0.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 28.3,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      }
+    }
+  },
+  "quarterly": {
+    "quarters": [
+      "Dec 2022",
+      "Mar 2023",
+      "Jun 2023",
+      "Sep 2023",
+      "Dec 2023",
+      "Mar 2024",
+      "Jun 2024",
+      "Sep 2024",
+      "Dec 2024",
+      "Mar 2025",
+      "Jun 2025",
+      "Sep 2025",
+      "Dec 2025"
+    ],
+    "sales": [
+      {
+        "value": 244.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 249.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 261.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 275.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 290.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 310.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 331.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 365.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 370.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 356.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 354.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 377.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      },
+      {
+        "value": 390.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Quarterly Sales in ₹Cr"
+      }
+    ],
+    "net_profit": [
+      {
+        "value": 74.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 74.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 76.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 84.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 89.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 103.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 107.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 121.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 124.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 113.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 108.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 114.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      },
+      {
+        "value": 125.0,
+        "color": "green",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Quarterly Net Profit in ₹Cr"
+      }
+    ],
+    "npm_pct": [
+      {
+        "value": 30.33,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 29.72,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 29.12,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 30.55,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 30.69,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 33.23,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 32.33,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 33.15,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 33.51,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 31.74,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 30.51,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 30.24,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      },
+      {
+        "value": 32.05,
+        "color": "yellow",
+        "source": "https://www.screener.in/company/CAMS/consolidated/",
+        "note": "Quarterly NPM% = Net Profit / Sales × 100"
+      }
+    ],
+    "shareholding": {
+      "Mar 2023": {
+        "fii": {
+          "value": 35.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 12.87,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 19.92,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 32.21,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Jun 2023": {
+        "fii": {
+          "value": 35.78,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 11.69,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 19.91,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 32.61,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Sep 2023": {
+        "fii": {
+          "value": 38.61,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 16.05,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 19.87,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 25.48,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Dec 2023": {
+        "fii": {
+          "value": 47.69,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 23.07,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 0.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 29.26,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Mar 2024": {
+        "fii": {
+          "value": 53.78,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 19.91,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 0.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 26.32,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Jun 2024": {
+        "fii": {
+          "value": 56.51,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 19.42,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 0.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 24.07,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Sep 2024": {
+        "fii": {
+          "value": 56.53,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 18.64,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 0.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 24.83,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Dec 2024": {
+        "fii": {
+          "value": 57.63,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 17.34,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 0.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 25.02,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Mar 2025": {
+        "fii": {
+          "value": 55.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 16.7,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 0.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 28.3,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Jun 2025": {
+        "fii": {
+          "value": 52.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 17.31,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 0.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 30.7,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Sep 2025": {
+        "fii": {
+          "value": 46.9,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 20.76,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 0.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 32.35,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      },
+      "Dec 2025": {
+        "fii": {
+          "value": 44.65,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical fii% from trendlyne.com"
+        },
+        "dii": {
+          "value": 22.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical dii% from trendlyne.com"
+        },
+        "promoter": {
+          "value": 0.0,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical promoter% from trendlyne.com"
+        },
+        "public": {
+          "value": 33.35,
+          "color": "green",
+          "source": "https://www.screener.in/company/CAMS/consolidated/",
+          "note": "Historical public% from trendlyne.com"
+        }
+      }
+    }
+  }
+}
