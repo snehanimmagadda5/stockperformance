@@ -1,6 +1,6 @@
 {
   "ticker": "BAJFINANCE",
-  "last_updated": "2026-03-01 18:49",
+  "last_updated": "2026-03-01 19:15",
   "sources": {
     "screener": "https://www.screener.in/company/BAJFINANCE/consolidated/",
     "trendlyne": "https://www.screener.in/company/BAJFINANCE/consolidated/",
@@ -23,74 +23,74 @@
     ],
     "sales": [
       {
-        "value": null,
-        "color": "red",
+        "value": 5392.0,
+        "color": "green",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "Sales in ₹Cr"
       },
       {
-        "value": null,
-        "color": "red",
+        "value": 7299.0,
+        "color": "green",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "Sales in ₹Cr"
       },
       {
-        "value": null,
-        "color": "red",
+        "value": 9970.0,
+        "color": "green",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "Sales in ₹Cr"
       },
       {
-        "value": null,
-        "color": "red",
+        "value": 12746.0,
+        "color": "green",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "Sales in ₹Cr"
       },
       {
-        "value": null,
-        "color": "red",
+        "value": 18487.0,
+        "color": "green",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "Sales in ₹Cr"
       },
       {
-        "value": null,
-        "color": "red",
+        "value": 26374.0,
+        "color": "green",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "Sales in ₹Cr"
       },
       {
-        "value": null,
-        "color": "red",
+        "value": 26673.0,
+        "color": "green",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "Sales in ₹Cr"
       },
       {
-        "value": null,
-        "color": "red",
+        "value": 31641.0,
+        "color": "green",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "Sales in ₹Cr"
       },
       {
-        "value": null,
-        "color": "red",
+        "value": 41411.0,
+        "color": "green",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "Sales in ₹Cr"
       },
       {
-        "value": null,
-        "color": "red",
+        "value": 54974.0,
+        "color": "green",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "Sales in ₹Cr"
       },
       {
-        "value": null,
-        "color": "red",
+        "value": 69709.0,
+        "color": "green",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "Sales in ₹Cr"
       },
       {
-        "value": null,
-        "color": "red",
+        "value": 79374.0,
+        "color": "green",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "Sales in ₹Cr"
       }
@@ -171,73 +171,73 @@
     ],
     "npm_pct": [
       {
-        "value": null,
+        "value": 16.65,
         "color": "yellow",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "NPM% = Net Profit / Sales × 100"
       },
       {
-        "value": null,
+        "value": 17.52,
         "color": "yellow",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "NPM% = Net Profit / Sales × 100"
       },
       {
-        "value": null,
+        "value": 18.42,
         "color": "yellow",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "NPM% = Net Profit / Sales × 100"
       },
       {
-        "value": null,
+        "value": 19.58,
         "color": "yellow",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "NPM% = Net Profit / Sales × 100"
       },
       {
-        "value": null,
+        "value": 21.61,
         "color": "yellow",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "NPM% = Net Profit / Sales × 100"
       },
       {
-        "value": null,
+        "value": 19.96,
         "color": "yellow",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "NPM% = Net Profit / Sales × 100"
       },
       {
-        "value": null,
+        "value": 16.57,
         "color": "yellow",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "NPM% = Net Profit / Sales × 100"
       },
       {
-        "value": null,
+        "value": 22.21,
         "color": "yellow",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "NPM% = Net Profit / Sales × 100"
       },
       {
-        "value": null,
+        "value": 27.79,
         "color": "yellow",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "NPM% = Net Profit / Sales × 100"
       },
       {
-        "value": null,
+        "value": 26.29,
         "color": "yellow",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "NPM% = Net Profit / Sales × 100"
       },
       {
-        "value": null,
+        "value": 24.07,
         "color": "yellow",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "NPM% = Net Profit / Sales × 100"
       },
       {
-        "value": null,
+        "value": 23.09,
         "color": "yellow",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "NPM% = Net Profit / Sales × 100"
@@ -263,55 +263,55 @@
         "note": "Need 3 prior years"
       },
       {
-        "value": null,
+        "value": 33.21,
         "color": "yellow",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
       },
       {
-        "value": null,
+        "value": 36.31,
         "color": "yellow",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
       },
       {
-        "value": null,
+        "value": 38.3,
         "color": "yellow",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
       },
       {
-        "value": null,
+        "value": 27.91,
         "color": "yellow",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
       },
       {
-        "value": null,
+        "value": 19.62,
         "color": "yellow",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
       },
       {
-        "value": null,
+        "value": 16.23,
         "color": "yellow",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
       },
       {
-        "value": null,
+        "value": 27.26,
         "color": "yellow",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
       },
       {
-        "value": null,
+        "value": 30.12,
         "color": "yellow",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
       },
       {
-        "value": null,
+        "value": 24.22,
         "color": "yellow",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "3yr CAGR Sales = (Sales_t / Sales_{t-3})^(1/3) - 1"
@@ -1748,80 +1748,80 @@
     ],
     "sales": [
       {
-        "value": null,
-        "color": "red",
+        "value": 10787.0,
+        "color": "green",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "Quarterly Sales in ₹Cr"
       },
       {
-        "value": null,
-        "color": "red",
+        "value": 11364.0,
+        "color": "green",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "Quarterly Sales in ₹Cr"
       },
       {
-        "value": null,
-        "color": "red",
+        "value": 12498.0,
+        "color": "green",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "Quarterly Sales in ₹Cr"
       },
       {
-        "value": null,
-        "color": "red",
+        "value": 13382.0,
+        "color": "green",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "Quarterly Sales in ₹Cr"
       },
       {
-        "value": null,
-        "color": "red",
+        "value": 14164.0,
+        "color": "green",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "Quarterly Sales in ₹Cr"
       },
       {
-        "value": null,
-        "color": "red",
+        "value": 14926.0,
+        "color": "green",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "Quarterly Sales in ₹Cr"
       },
       {
-        "value": null,
-        "color": "red",
+        "value": 16100.0,
+        "color": "green",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "Quarterly Sales in ₹Cr"
       },
       {
-        "value": null,
-        "color": "red",
+        "value": 17091.0,
+        "color": "green",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "Quarterly Sales in ₹Cr"
       },
       {
-        "value": null,
-        "color": "red",
+        "value": 18035.0,
+        "color": "green",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "Quarterly Sales in ₹Cr"
       },
       {
-        "value": null,
-        "color": "red",
+        "value": 18457.0,
+        "color": "green",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "Quarterly Sales in ₹Cr"
       },
       {
-        "value": null,
-        "color": "red",
+        "value": 19524.0,
+        "color": "green",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "Quarterly Sales in ₹Cr"
       },
       {
-        "value": null,
-        "color": "red",
+        "value": 20179.0,
+        "color": "green",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "Quarterly Sales in ₹Cr"
       },
       {
-        "value": null,
-        "color": "red",
+        "value": 21214.0,
+        "color": "green",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "Quarterly Sales in ₹Cr"
       }
@@ -1908,79 +1908,79 @@
     ],
     "npm_pct": [
       {
-        "value": null,
+        "value": 27.56,
         "color": "yellow",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "Quarterly NPM% = Net Profit / Sales × 100"
       },
       {
-        "value": null,
+        "value": 27.79,
         "color": "yellow",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "Quarterly NPM% = Net Profit / Sales × 100"
       },
       {
-        "value": null,
+        "value": 27.5,
         "color": "yellow",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "Quarterly NPM% = Net Profit / Sales × 100"
       },
       {
-        "value": null,
+        "value": 26.54,
         "color": "yellow",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "Quarterly NPM% = Net Profit / Sales × 100"
       },
       {
-        "value": null,
+        "value": 25.69,
         "color": "yellow",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "Quarterly NPM% = Net Profit / Sales × 100"
       },
       {
-        "value": null,
+        "value": 25.63,
         "color": "yellow",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "Quarterly NPM% = Net Profit / Sales × 100"
       },
       {
-        "value": null,
+        "value": 24.3,
         "color": "yellow",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "Quarterly NPM% = Net Profit / Sales × 100"
       },
       {
-        "value": null,
+        "value": 23.49,
         "color": "yellow",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "Quarterly NPM% = Net Profit / Sales × 100"
       },
       {
-        "value": null,
+        "value": 23.89,
         "color": "yellow",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "Quarterly NPM% = Net Profit / Sales × 100"
       },
       {
-        "value": null,
+        "value": 24.63,
         "color": "yellow",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "Quarterly NPM% = Net Profit / Sales × 100"
       },
       {
-        "value": null,
+        "value": 24.41,
         "color": "yellow",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "Quarterly NPM% = Net Profit / Sales × 100"
       },
       {
-        "value": null,
+        "value": 24.52,
         "color": "yellow",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "Quarterly NPM% = Net Profit / Sales × 100"
       },
       {
-        "value": null,
+        "value": 19.17,
         "color": "yellow",
         "source": "https://www.screener.in/company/BAJFINANCE/consolidated/",
         "note": "Quarterly NPM% = Net Profit / Sales × 100"
